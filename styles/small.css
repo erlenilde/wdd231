@@ -1,0 +1,153 @@
+:root {
+    --font-family: 'Roboto', sans-serif;
+    --font-weigh-thin: 100;
+    --background-color: #164E70;
+}
+
+.parent {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--background-color);
+    gap: 20px;
+    padding: 1rem;
+}
+
+header h1 {
+    color: white;
+}
+
+.mobile-view {
+    display: flex;
+}
+
+.navigation {
+    display: block;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+nav ul li a {
+    color: rgb(230, 229, 229);
+    text-decoration: none;
+    text-align: center;
+    padding: 1rem;
+    font-family: var(--font-family);
+}
+
+a:hover {
+    color: yellow;
+}
+
+
+.hamburger {
+    font-size: 2rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: white;
+    display: block;
+}
+
+
+#mainMenu {
+    display: none;
+}
+
+#mainMenu.show {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 100%;
+}
+
+
+.img-profile img {
+    height: 100px;
+    width: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.figure img {
+    max-width: 250px;
+    height: auto;
+}
+
+
+.title {
+    background-color: var(--background-color);
+    color: white;
+    text-align: center
+}
+
+.course-card {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-family: var(--font-family);
+    transition: transform 0.2s ease;
+  }
+  
+  .course-card:hover {
+    transform: scale(1.01);
+  }
+
+  .completed-course {
+    background-color: #6c3f2b;
+    color: white;
+    border: 2px solid #472a1c;
+  }
+  
+  .filter-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 1rem 0;
+  }
+  
+  .filter-buttons button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .filter-buttons button:hover {
+    background-color: #555;
+  }
+
+  footer {
+    grid-row: 6;
+    grid-column: 1 / -1;
+    background-color: var(--background-color);
+    color: white;
+    text-align: center;
+}
+
+.certificate p{
+    text-align: center;
+}
+  

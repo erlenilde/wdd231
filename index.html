@@ -1,11 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WDD 231</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" href="styles/larger.css">
+    <script src="scripts/course.js" defer></script>
+    <script src="scripts/date.js" defer></script>
+    <script src="scripts/navigation.js" defer></script>
+    <meta name="author" content="Erlenilde Santos">
+    <title>WDD 131 - Web Frontend Development 1 - Erlenilde Santos</title>
 </head>
+
 <body>
-    
+    <div class="parent">
+        <header>
+            <section class="profile">
+                <div class="img-profile">
+                    <img src="images/profile_photo.webp" alt="profile">
+                </div>
+                <div class="mobile-view">
+                    <h1>Erlenilde Santos</h1>
+                    <button id="menuButton" class="hamburger">☰</button>
+                </div>
+            </section>
+            <section class="navigation">
+             
+                <div class="menu">
+                    <nav id="mainMenu" class="hide">
+                    
+                        <ul>
+                            <li><a href=index.html>Home</a></li>
+                            <li><a href=placeholder>Chamber</a></li>
+                            <li><a href=placeholder>Final</a></li>
+                            <li><a href=https://github.com/erlenilde/wdd231>GitHub Profile</a></li>
+                            <li><a href=https://www.linkedin.com/in/erlenilde-santos-94631024>LinkedIn</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </section>
+        </header>
+        <main>
+            <h3>Home</h3>
+            <section class="course-work frame">
+                <div class="title">
+                    <h3>Course Work</h3>
+                </div>
+                <div>
+                    <ul>
+                        <li><a href="week01/index.html">W1</a></li>
+                        <li><a href="placeholder">W2</a></li>
+                        <li><a href="placeholder">W3</a></li>
+                      </ul>
+                </div>
+
+            </section>
+            <section class="picture frame">
+                <div class="title">
+                    <h3>Rio, Brazil</h3>
+                </div>
+                <div class="figure">
+                    <figure>
+                        <img src="images/rio-brazil.webp" alt="flag">
+                        <figcaption>Christ The Redeemer</figcaption>
+                    </figure>
+                </div>
+            </section>
+            <section class="certificate frame">
+                <div class="title">
+                    <h3>Web and Computer Programming Certificate</h3>
+                </div>
+                <div class="filter-buttons">
+                    <button id="btnall">All</button>
+                    <button id="btnwdd">WDD</button>
+                    <button id="btncse">CSE</button>
+                </div>
+                <p id="creditTotal"><strong>Total Credits:</strong> 0</p>
+                <div id="courseContainer">
+
+                </div>
+            </section>
+        </main>
+        <footer>
+            <p>© <span id="year"></span> Erlenilde Santos - Brazil</p>
+            <p>Last Modification: <span id="lastModified"></span></p>
+        </footer>
+    </div>
 </body>
+
 </html>
