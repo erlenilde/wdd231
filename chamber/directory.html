@@ -10,18 +10,102 @@
     <meta property="og:url" content="https://www.facebook.com/erlenilde.santos">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/normalize.css">
     <link rel="stylesheet" href="styles/small.css">
     <link rel="stylesheet" href="styles/larger.css">
     <link rel="icon" href="favicon.ico">
-    <script src="scripts/course.js" defer></script>
     <script src="scripts/date.js" defer></script>
     <script src="scripts/navigation.js" defer></script>
+    <script src="scripts/members.js" defer></script>
     <meta name="author" content="Erlenilde Santos">
     <title>Chamber of Commerce</title>
 </head>
 <body>
-    
+    <div class="parent">
+        <header>
+            <section class="header">
+                <div class="logo">
+                    <img src="images/timbuktu.webp" alt="logo">
+                </div>
+                <div class="title">
+                    <div class="title-text">
+                        <h1>Timbuktu</h1>
+                        <h5>Chamber of Commerce</h5>
+                    </div>
+                    <button id="menuButton" class="hamburger">☰</button>
+                </div>
+                <div class="navigation">
+                    <nav id="mainMenu">
+                        <ul>
+                            <li><a href="directory.html">Home</a></li>
+                            <li><a href="placeholder">Discover</a></li>
+                            <li><a href="placeholder">Directory</a></li>
+                            <li><a href="placeholder">Join</a></li>
+                        </ul>   
+                    </nav>
+                </div>
+            </section>
+            <div class="hero">
+                <img src="images/hero.webp" alt="hero">
+                <button id="keynote" class="keynote">Keynote Tickets</button>
+            </div>
+            
+        </header>
+        <main>
+            <h2>Home</h2>
+            <section class="main-top">
+                <div class="events">
+                    <h3>Events</h3>
+                </div>
+                <div class="weather">
+                    <h3>Current Weather</h3>
+                </div>
+                <div class="forecast">
+                    <h3>Weather Forecast</h3>
+                </div>
+            </section>
+            <div class="menu_business">
+                <button id="grid">⏹️ Grid</button>
+                <button id="list">📄 List</button>
+            </div>
+            <div class="business" id="business">
+
+            </div>
+            
+        </main>
+        <footer>
+            <section class="footer">
+                <div class="company-data">
+                    <p class="footer-title">Timbuktu Chamber of Commerce</p>
+                    <p>10 Rue De La Paix</p>
+                    <p>Timbuktu, Mali 999</p>
+                    <p>info@timbuktucc.org</p>
+                    <p>(223) 555-2300</p>
+                </div>
+                <div class="social-media">
+                    <nav class="sociallinks">
+                        <a href="https://facebook.com">
+                            <img src="images/facebook_logo.webp" alt="Facebook">
+                        </a>
+                        <a href="https://x.com">
+                            <img src="images/X_logo.webp" alt="x">
+                        </a>
+                        <a href="https://Instagram.com">
+                            <img src="images/instagram_logo.webp" alt="Instagram">
+                        </a>
+                    </nav>
+                </div>
+                <div class="last-modified">
+                    <p>WDD231 Class Project</p>
+                    <p>Erlenilde Santos - Brazil</p>
+                    <p>© <span id="year"></span> Timbuktu Chamber of Commerce</p>
+                    <p>Last Modification: <span id="lastModified"></span></p>
+                </div>
+            </section>    
+        </footer>
+    </div>
 </body>
 </html>
