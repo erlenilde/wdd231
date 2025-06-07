@@ -292,4 +292,15 @@
         padding-bottom: 1rem;
         font-size: small;
     }
+
+    .spotlights {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+    }
+
+    li.current-menu-item a {
+        text-decoration: dashed;
+        background-color: none;
+    }
 }

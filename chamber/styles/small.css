@@ -64,6 +64,10 @@ nav ul li a {
 
 }
 
+li.current-menu-item a {
+    background-color: rgba(0,0,0,0.2);
+}
+
 nav ul {
     list-style: none;
 }
@@ -145,6 +149,36 @@ main h2 {
     font-size: 30px;
 
  }
+
+ .weather-content {
+    display: flex;
+    align-items: flex-start;
+ }
+
+ .weather-content figure {
+    margin: 0;
+    padding: 0;
+ 
+  }
+  
+  .weather-content img {
+    display: block;
+    width: 48px;
+    height: auto;
+  }
+  .weather-content div {
+    margin: 0;
+    padding: 0;
+  }
+  .weather-content p {
+    margin: 0;
+    padding: 0;
+  }
+
+ 
+  #temp-today, #temp-day2, #temp-day3 {
+    font-weight: bold;
+  }
 
  .menu_business{
     width: 100%;
@@ -312,3 +346,44 @@ main h2 {
     display: none;
 }
 
+.spotlights {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.spotlights .spotlight-card {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    height: auto;
+    background-color: var(--background-color);
+    border-radius: 5%;
+    margin: 1rem;
+    position: relative;
+    padding: 1rem;
+}
+
+.spotlights .spotlight-card h3 {
+    align-content: flex-start;
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 1rem;
+}
+
+.spotlights .spotlight-card p, 
+.spotlights .spotlight-card a {
+    text-align: left;
+    margin: 0;
+    padding-left: 8rem;
+    padding-bottom: 1rem;
+    font-size: small;
+}
+
+.spotlights .spotlight-card img {
+    margin: 0.5em;
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 6rem;
+}
