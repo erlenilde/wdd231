@@ -308,4 +308,43 @@
         text-decoration: underline;
         background-color: var(--background-color);
     }
+
+    main .join-flex {
+          display: flex;
+          flex-direction: row;
+          align-items: flex-start;
+          gap: 2rem;
+          justify-content: center;
+          margin-top: 1rem;
+        }
+      
+    #membershipForm {
+          margin: 0;
+          min-width: 380px;
+          max-width: 440px;
+        }
+      
+    .membership-levels {
+          margin-top: 0;
+          width: 100%;
+        }
+      
+    .membership-cards {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+            align-items: center;
+            margin: 1rem auto;
+            width: 100%;
+            max-width: 400px;
+            min-width: 320px;
+          }
+    
+    .membership-card {
+            width: 100%;
+            max-width: 400px;
+            min-width: 320px;
+    }
+      
+      
 }

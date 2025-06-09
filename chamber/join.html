@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Timbuktu Chamber of Commerce">
+    <meta property="og:title" content="Erlenilde Santos">
+    <meta property="og:description" content="Chamber of commerce">
+    <meta property="og:image" content="index.html"/>
+    <meta property="og:url" content="https://www.facebook.com/erlenilde.santos">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" href="styles/larger.css">
+    <link rel="icon" href="favicon.ico">
+    <script src="scripts/date.js" defer></script>
+    <script src="scripts/navigation.js" defer></script>
+    <script src="scripts/members.js" defer></script>
+    <script src="scripts/weather.js" defer></script>
+    <script src="scripts/forecast.js" defer></script>
+    <script src="scripts/spotlights.js" defer></script>
+    <script src="scripts/button.js" defer></script>
+    <script src="scripts/join.js" defer></script>
+    <meta name="author" content="Erlenilde Santos">
+    <title>Timbuktu Chamber of Commerce</title>
+</head>
+<body>
+    <div class="parent">
+        <header>
+            <section class="header">
+                <div class="logo">
+                    <img src="images/timbuktu.webp" alt="logo">
+                </div>
+                <div class="title">
+                    <div class="title-text">
+                        <h1>Timbuktu</h1>
+                        <h5>Chamber of Commerce</h5>
+                    </div>
+                    <button id="menuButton" class="hamburger">☰</button>
+                </div>
+                <div class="navigation">
+                    <nav id="mainMenu">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="placeholder">Discover</a></li>
+                            <li><a href="directory.html">Directory</a></li>
+                            <li class="current-menu-item"><a href="join.html">Join</a></li>
+                        </ul>   
+                    </nav>
+                </div>
+            </section>
+                        
+        </header>
+        <main>
+            <div class="join-flex">
+                <form id="membershipForm" method="get" action="thankyou.html" autocomplete="on">
+                    <label>
+                    First Name
+                    <input type="text" name="firstName" title="Enter your first name" autocomplete="given-name" required>
+                    </label>
+                
+                    <label>
+                    Last Name
+                    <input type="text" name="lastName" title="Enter your last name" autocomplete="family-name" required>
+                    </label>
+                
+                    <label>
+                    Organization Title
+                    <input type="text" name="orgTitle" title="Your title in the organization" autocomplete="organization-title"
+                        pattern="[A-Za-z\s\-]{7,}" placeholder="e.g. Marketing Lead" required>
+                    </label>
+                
+                    <label>
+                    Email
+                    <input type="email" name="email" title="Enter your email" autocomplete="email" required
+                        placeholder="your@email.com">
+                    </label>
+                
+                    <label>
+                    Mobile Phone
+                    <input type="tel" name="mobile" title="Enter your mobile number" autocomplete="tel" required>
+                    </label>
+                
+                    <label>
+                    Business/Organization Name
+                    <input type="text" name="orgName" title="Enter organization name" autocomplete="organization" required>
+                    </label>
+                
+                    <label>
+                    Membership Level
+                    <select name="membership" title="Select membership level" required>
+                        <option value="" disabled selected>Select level</option>
+                        <option value="np">NP Membership (No fee)</option>
+                        <option value="bronze">Bronze Membership</option>
+                        <option value="silver">Silver Membership</option>
+                        <option value="gold">Gold Membership</option>
+                    </select>
+                    </label>
+                
+                    <label>
+                    Business Description
+                    <textarea name="description" title="Describe your business"></textarea>
+                    </label>
+                
+                    <input type="hidden" name="timestamp" id="timestamp">
+                
+                    <button type="submit">Apply for Membership</button>
+                </form>
+            </div>
+              <section class="membership-levels">
+                <h2>Choose Your Membership Level</h2>
+                <div class="membership-cards">
+                  <!-- NP Membership -->
+                  <div class="membership-card" id="card-np">
+                    <h3>NP Membership</h3>
+                    <p>No fee. Perfect for non-profit organizations.</p>
+                    <button type="button" data-modal="modal-np">See Benefits</button>
+                  </div>
+                  <!-- Bronze -->
+                  <div class="membership-card" id="card-bronze">
+                    <h3>Bronze Membership</h3>
+                    <p>Great for small businesses starting to grow.</p>
+                    <button type="button" data-modal="modal-bronze">See Benefits</button>
+                  </div>
+                  <!-- Silver -->
+                  <div class="membership-card" id="card-silver">
+                    <h3>Silver Membership</h3>
+                    <p>For businesses seeking greater visibility.</p>
+                    <button type="button" data-modal="modal-silver">See Benefits</button>
+                  </div>
+                  <!-- Gold -->
+                  <div class="membership-card" id="card-gold">
+                    <h3>Gold Membership</h3>
+                    <p>Top-level benefits and full exposure.</p>
+                    <button type="button" data-modal="modal-gold">See Benefits</button>
+                  </div>
+                </div>
+              </section>
+              <!-- NP Modal -->
+                <div class="modal" id="modal-np">
+                    <div class="modal-content">
+                    <span class="close" data-close="modal-np">&times;</span>
+                    <h3>NP Membership Benefits</h3>
+                    <ul>
+                        <li>Free chamber events</li>
+                        <li>Networking for non-profits</li>
+                        <li>Access to member directory</li>
+                    </ul>
+                    </div>
+                </div>
+                <!-- Bronze Modal -->
+                <div class="modal" id="modal-bronze">
+                    <div class="modal-content">
+                    <span class="close" data-close="modal-bronze">&times;</span>
+                    <h3>Bronze Membership Benefits</h3>
+                    <ul>
+                        <li>All NP benefits</li>
+                        <li>Discounted advertising</li>
+                        <li>Event participation</li>
+                    </ul>
+                    </div>
+                </div>
+                <!-- Silver Modal -->
+                <div class="modal" id="modal-silver">
+                    <div class="modal-content">
+                    <span class="close" data-close="modal-silver">&times;</span>
+                    <h3>Silver Membership Benefits</h3>
+                    <ul>
+                        <li>All Bronze benefits</li>
+                        <li>Spotlight on homepage</li>
+                        <li>2 free event tickets/year</li>
+                    </ul>
+                    </div>
+                </div>
+                <!-- Gold Modal -->
+                <div class="modal" id="modal-gold">
+                    <div class="modal-content">
+                    <span class="close" data-close="modal-gold">&times;</span>
+                    <h3>Gold Membership Benefits</h3>
+                    <ul>
+                        <li>All Silver benefits</li>
+                        <li>Featured business interview</li>
+                        <li>Exclusive networking events</li>
+                    </ul>
+                    </div>
+                </div>
+  
+              
+              
+        </main>
+        <footer>
+            <section class="footer">
+                <div class="company-data">
+                    <p class="footer-title">Timbuktu Chamber of Commerce</p>
+                    <p>10 Rue De La Paix</p>
+                    <p>Timbuktu, Mali 999</p>
+                    <p>info@timbuktucc.org</p>
+                    <p>(223) 555-2300</p>
+                </div>
+                <div class="social-media">
+                    <nav class="sociallinks">
+                        <a href="https://facebook.com">
+                            <img src="images/facebook_logo.webp" alt="Facebook">
+                        </a>
+                        <a href="https://x.com">
+                            <img src="images/x_logo.webp" alt="x">
+                        </a>
+                        <a href="https://Instagram.com">
+                            <img src="images/instagram_logo.webp" alt="Instagram">
+                        </a>
+                    </nav>
+                </div>
+                <div class="last-modified">
+                    <p>WDD231 Class Project</p>
+                    <p>Erlenilde Santos - Brazil</p>
+                    <p>© <span id="year"></span> Timbuktu Chamber of Commerce</p>
+                    <p>Last Modification: <span id="lastModified"></span></p>
+                </div>
+            </section>    
+        </footer>
+    </div>
+</body>
+</html>

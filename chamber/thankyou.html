@@ -1,21 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Timbuktu Chamber of Commerce">
     <meta property="og:title" content="Erlenilde Santos">
     <meta property="og:description" content="Chamber of commerce">
-    <meta property="og:image" content="https://www.facebook.com/photo/?fbid=5796824290334412&set=a.166245456725685" />
+    <meta property="og:image" content="index.html"/>
     <meta property="og:url" content="https://www.facebook.com/erlenilde.santos">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/normalize.css">
     <link rel="stylesheet" href="styles/small.css">
     <link rel="stylesheet" href="styles/larger.css">
@@ -23,10 +20,14 @@
     <script src="scripts/date.js" defer></script>
     <script src="scripts/navigation.js" defer></script>
     <script src="scripts/members.js" defer></script>
+    <script src="scripts/weather.js" defer></script>
+    <script src="scripts/forecast.js" defer></script>
+    <script src="scripts/spotlights.js" defer></script>
+    <script src="scripts/button.js" defer></script>
+    <script src="scripts/thankyou.js" defer></script>
     <meta name="author" content="Erlenilde Santos">
-    <title>Chamber of Commerce</title>
+    <title>Timbuktu Chamber of Commerce</title>
 </head>
-
 <body>
     <div class="parent">
         <header>
@@ -44,41 +45,25 @@
                 <div class="navigation">
                     <nav id="mainMenu">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li class="current-menu-item"><a href="index.html">Home</a></li>
                             <li><a href="placeholder">Discover</a></li>
-                            <li class="current-menu-item"><a href="directory.html">Directory</a></li>
+                            <li><a href="directory.html">Directory</a></li>
                             <li><a href="placeholder">Join</a></li>
-                        </ul>
+                        </ul>   
                     </nav>
                 </div>
             </section>
-            <div class="hero">
-                <img src="images/hero.webp" alt="hero">
-                <button id="keynote" class="keynote">Keynote Tickets</button>
-            </div>
-
+                        
         </header>
         <main>
-            <h2>Home</h2>
-            <section class="main-top">
-                <div class="events">
-                    <h3>Events</h3>
-                </div>
-                <div class="weather">
-                    <h3>Current Weather</h3>
-                </div>
-                <div class="forecast">
-                    <h3>Weather Forecast</h3>
-                </div>
-            </section>
-            <div class="menu_business">
-                <button id="grid">⏹️ Grid</button>
-                <button id="list">📄 List</button>
-            </div>
-            <div class="business" id="business">
+            <section class="thankyou-section">
+                <h2>Thank You for Your Application!</h2>
+                <p>We have received your membership request. Here is what you submitted:</p>
+                <div id="form-data">
 
-            </div>
-
+                </div>
+                <a href="index.html">Back to Home</a>
+              </section>
         </main>
         <footer>
             <section class="footer">
@@ -112,5 +97,4 @@
         </footer>
     </div>
 </body>
-
 </html>

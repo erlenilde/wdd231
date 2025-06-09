@@ -78,6 +78,23 @@ const courses = [
     }
 ]
 
+function displayCourseDetails(course) {
+    const courseDetails = document.getElementById("course-details");
+    courseDetails.innerHTML = `
+        <button id="closeModal">❌</button>
+        <h2>${course.subject} ${course.number}</h2>
+        <h3>${course.title}</h3>
+        <p><strong>Credits</strong>: ${course.credits}</p>
+        <p><strong>Certificate</strong>: ${course.certificate}</p>
+        <p>${course.description}</p>
+        <p><strong>Technologies</strong>: ${course.technology.join(", ")}</p>
+    `;
+    courseDetails.showModal();
+
+    // Botão para fechar o modal
+    document.getElementById("closeModal").onclick = () => courseDetails.close();
+}    
+
 const renderCourses = (courses) => {
     const container = document.getElementById('courseContainer');
     container.innerHTML = "";
@@ -87,15 +104,21 @@ const renderCourses = (courses) => {
         card.classList.add("course-card");
 
         card.innerHTML = `
-            <h4>${course.subject} ${course.number} - ${course.title}</h4>
-            <p><strong>Technologies:</strong> ${course.technology.join(", ")}</p>
+            <h4>${course.subject} ${course.number}</h4> 
+            
+        `; 
+        //- ${course.title}//
+        /*<p><strong>Technologies:</strong> ${course.technology.join(", ")}</p>
             <p><strong>Credits:</strong> ${course.credits}</p>
-            <p>${course.description}</p>
-        `;
+            <p>${course.description}</p>*/
 
         if (course.completed) {
             card.classList.add("completed-course");
         }
+
+        card.addEventListener("click", () => {
+            displayCourseDetails(course);
+        });
 
         container.appendChild(card);
     });
@@ -106,6 +129,8 @@ const renderCourses = (courses) => {
         creditDisplay.textContent = `Total credits: ${totalCredits}`;
     }
 }
+
+
 
 renderCourses(courses);
 
@@ -126,3 +151,5 @@ document.addEventListener("DOMContentLoaded", () => {
         renderCourses(filtered);
     });
 })
+
+

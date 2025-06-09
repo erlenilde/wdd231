@@ -1,5 +1,5 @@
 :root{
---heading-color: #423e37ff;
+--heading-color: rgb(66, 62, 55);
 --box-background: rgb(227, 178, 60);
 --background-color: #edebd7ff;
 --header-footer-color: #a39594ff;
@@ -19,6 +19,7 @@
     background-color: var(--background-color);
     display: flex;
     padding: 1rem;
+    
 }
 
 .title {
@@ -49,28 +50,41 @@
     border-radius: 15px;
 }
 
-nav {
+/*.header nav {
     background-color: var(--heading-color);
     color: var(--background-color);
     display: flex;
     flex-direction: column;
-}
-
-nav ul li a {
-    text-decoration: none;
-    text-align: center;
-    padding: 1rem;
-    color: var(--background-color);
-
-}
-
-li.current-menu-item a {
-    background-color: rgba(0,0,0,0.2);
-}
+}*/
 
 nav ul {
     list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
 }
+
+nav ul li a {
+    color: rgb(230, 229, 229);
+    text-decoration: none;
+    text-align: center;
+    padding: 1rem;
+    font-family: var(--font-family);
+
+}
+
+nav ul li {
+    width: 100%;
+}
+
+li.current-menu-item{
+    background-color: rgba(3, 2, 0, 0.2);
+    width: 100%;
+    height: auto;
+}
+
+
 
 a:hover {
     font-weight: bolder;
@@ -91,6 +105,7 @@ a:hover {
 #mainMenu.show {
     display: flex;
     flex-direction: column;
+    background-color:var(--heading-color);
     width: 100%;
     
 }
@@ -387,3 +402,187 @@ main h2 {
     position: absolute;
     top: 6rem;
 }
+
+.join-flex {
+    margin: 1rem;
+}
+
+/* Seção de Membership Levels */
+.membership-levels {
+    margin: 2rem 0;
+  }
+  
+  /* Container dos cards - responsivo */
+  .membership-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 1rem;
+  }
+  
+  /* Cada card */
+  .membership-card {
+    background-color: var(--box-background);
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(50,40,20,0.07);
+    padding: 2rem 1.2rem 1.2rem 1.2rem;
+    text-align: center;
+    opacity: 0; /* para animação do JS */
+    transform: translateY(30px);
+    transition: opacity 0.7s, transform 0.7s;
+  }
+  
+  .membership-card.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .membership-card h3 {
+    margin-bottom: 0.8rem;
+    color: var(--heading-color);
+  }
+  
+  .membership-card p {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 1.2rem;
+  }
+  
+  .membership-card button {
+    padding: 0.5rem 1.2rem;
+    border: none;
+    border-radius: 8px;
+    background: var(--heading-color);
+    color: var(--background-color);
+    font-size: 1rem;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.2s, color 0.2s;
+  }
+  
+  .membership-card button:hover {
+    background: #6b625d;
+    color: #fffbe6;
+  }
+
+  #membershipForm {
+    background: var(--background-color);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 12px rgba(50,40,20,0.06);
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #membershipForm label {
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+  }
+  
+  #membershipForm input,
+  #membershipForm select,
+  #membershipForm textarea {
+    margin-top: 0.3rem;
+    padding: 0.7em 1em;
+    border-radius: 8px;
+    border: 1px solid #aaa;
+    font-size: 1rem;
+    background: #fff;
+  }
+  
+  #membershipForm button[type="submit"] {
+    margin-top: 1.5rem;
+    background: var(--box-background);
+    color: #333;
+    font-weight: bold;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    padding: 0.8rem 0;
+    transition: background 0.2s;
+  }
+  
+  #membershipForm button[type="submit"]:hover {
+    background: #d8a340;
+    color: #222;
+  }
+
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0; top: 0; right: 0; bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(66,62,55, 0.65);
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 1rem auto;
+
+  }
+  
+  .modal .modal-content {
+    background: #fffbe6;
+    border-radius: 18px;
+    box-shadow: 0 6px 32px rgba(66,62,55, 0.14);
+    max-width: 90vw;
+    width: 340px;
+    padding: 2rem 1.2rem 1.5rem 1.2rem;
+    position: relative;
+    margin: 2rem auto;
+  }
+  
+  .modal .modal-content h3 {
+    margin-top: 0;
+    color: var(--heading-color);
+  }
+  
+  .modal .close {
+    position: absolute;
+    right: 1.2rem;
+    top: 1.2rem;
+    font-size: 2rem;
+    color: #997a56;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+  
+  .modal .close:hover {
+    color: #c94c4c;
+  }
+
+  .thankyou-section {
+    background: var(--background-color);
+    border-radius: 12px;
+    padding: 2rem;
+    max-width: 480px;
+    margin: 2rem auto;
+    box-shadow: 0 2px 12px rgba(50,40,20,0.08);
+    text-align: center;
+  }
+  .form-review {
+    text-align: left;
+    margin: 2rem auto;
+    max-width: 400px;
+    padding: 1.5rem;
+    background: #fffbe6;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px rgba(50,40,20,0.05);
+    list-style-type: none;
+    padding-left: 1rem;
+  }
+  .form-review li {
+    margin-bottom: 1em;
+  }
+  
+
+
