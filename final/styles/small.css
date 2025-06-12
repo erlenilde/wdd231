@@ -1,0 +1,82 @@
+:root {
+    --font-family: 'Roboto', sans-serif;
+    --canary: #ffe807ff;
+    --black: #000000ff;
+    --persian-blue: #073db9ff;
+    --jonquil: #fcc713ff;
+
+}
+
+*{
+    font-family: var(--font-family);
+    
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: solid var(--persian-blue);
+
+       
+}
+
+.logo h1 {
+    font-weight: 400;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    list-style: none;
+    border: solid black 0.1px;
+}
+
+.total {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.total div {
+    border: solid black 0.1px;
+
+}
+
+.graphic {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.graphic div {
+    border: solid black 0.1px;
+    width: 100%;
+    height: 15rem;
+}
+
+.ranking {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.ranking div {
+    border: solid black 0.1px;
+    width: 100%;
+    height: 15rem;
+}
+
+footer {
+    background-color: var(--canary);
+    color: var(--black);
+    text-align: center;
+    padding: 1rem;
+}
