@@ -1,4 +1,4 @@
-@media screen and (min-width: 1025px) {
+@media screen and (min-width: 641px) {
     :root {
         --heading-color: #423e37ff;
         --box-background: #e3b23cff;
@@ -363,21 +363,38 @@
     }
 
     #allplaces {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-    }
+        box-sizing: border-box;
+    
+      }
+    
+      #allplaces div{
+        grid-template-areas: 
+        "photo name"
+        "photo description"
+        "photo location"
+        "photo cost";
+      }
+
+      #allplaces div img {
+        width: 300px;
+      }
+
 
     #allplaces img {
-        transition: transform 0.3s, box-shadow 0.3s, filter 0.3s;
-    }
-    
+            transition: transform 0.3s, box-shadow 0.3s, filter 0.3s;
+        }
+        
     #allplaces img:hover {
-        transform: scale(1.07);
-        box-shadow: 0 8px 24px rgba(180, 160, 60, 0.18);
-        filter: brightness(1.07) contrast(1.05);
-        cursor: pointer;
+            transform: scale(1.07);
+            box-shadow: 0 8px 24px rgba(180, 160, 60, 0.18);
+            filter: brightness(1.07) contrast(1.05);
+            cursor: pointer;
+  }
+  
+    
+      
 
 
-    }
+
 
 }
