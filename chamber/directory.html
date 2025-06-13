@@ -23,6 +23,8 @@
     <script src="scripts/date.js" defer></script>
     <script src="scripts/navigation.js" defer></script>
     <script src="scripts/members.js" defer></script>
+    <script src="scripts/weather.js" defer></script>
+    <script src="scripts/forecast.js" defer></script>
     <meta name="author" content="Erlenilde Santos">
     <title>Chamber of Commerce</title>
 </head>
@@ -64,9 +66,25 @@
                 </div>
                 <div class="weather">
                     <h3>Current Weather</h3>
+                    <section class="weather-content">
+                        <div>
+                            <figure>
+                                <img id="weather-icon" src="" alt="">
+                                
+                            </figure>
+                        </div>
+                        <div>
+                            <p><span id="current-temp"></span></p>
+                            <figcaption></figcaption>
+                            
+                        </div>
+                    </section>
                 </div>
-                <div class="forecast">
+                <div class="forecast" id="weather-forecast">
                     <h3>Weather Forecast</h3>
+                    <p>Today: <span id="temp-today"></span></p>
+                    <p><span id="day2"></span>: <span id="temp-day2"></span></p>
+                    <p><span id="day3"></span>: <span id="temp-day3"></span></p>
                 </div>
             </section>
             <div class="menu_business">

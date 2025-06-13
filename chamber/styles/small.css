@@ -246,7 +246,7 @@ main h2 {
 
  }
 
-.member-card p, .grid .member-card a {
+.member-card p, .member-card a {
     text-align: left;
     margin: 0;
     padding-left: 8rem;
