@@ -83,6 +83,31 @@
         grid-column: 1 / -1;
     }
 
+    .logo img {
+        max-width: 200px;
+        height: auto;
+    }
+    
+    .logo h1 {
+        font-weight: 400;
+        color: white;
+        font-size: 2rem;
+        text-align: center;
+        margin: 0;
+    }
+
+    nav ul li {
+        list-style: none;
+        background-color: var(--background-2);
+        color: var(--background-1);
+        font-weight: 700;
+        padding: 1rem;
+        border-radius: 8px;
+        font-size: 1.2rem;
+        
+        
+    }
+
     
 
 
