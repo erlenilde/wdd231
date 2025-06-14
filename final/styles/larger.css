@@ -1,15 +1,14 @@
 @media screen and (min-width: 768px) {
     :root {
         --font-family: 'Roboto', sans-serif;
-        --canary: #ffe807ff;
-        --black: #000000ff;
-        --persian-blue: #073db9ff;
-        --jonquil: #fcc713ff;
-
+        --background-2: #fcc713ff;
+        --background-1: #2b3d91;
+    
     }
-
+    
     *{
         font-family: var(--font-family);
+        
         
     }
 
@@ -26,11 +25,24 @@
     header {
         grid-row: 1;
         grid-column: 1 / -1;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    nav {
+        width: auto;
     }
 
     nav ul {
         display: flex;
         justify-content: flex-start;
+    }
+
+    .total, .graphic, .ranking {
+        background-color: var(--background-2);
+        padding: 1rem;
+        margin: 0;
     }
 
     .total {
