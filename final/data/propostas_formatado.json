@@ -1,0 +1,5782 @@
+[
+  {
+    "cliente":"MANOEL  JORGE DE SOUZA",
+    "potencia":9.26,
+    "preco":36178.08,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-02"
+  },
+  {
+    "cliente":"ULISSES EDUARDO ANDRADE",
+    "potencia":4.36,
+    "preco":14861.82,
+    "parceiro":"NEUBER  LOPES",
+    "editor":"NEUBER  LOPES",
+    "telefone":"(27) 99992-3177",
+    "fonte":"Indicação",
+    "data_criacao":"2024-01-04"
+  },
+  {
+    "cliente":"CARLOS ALBERTO LAVA",
+    "potencia":13.08,
+    "preco":64310.29,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(11) 94776-1879",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-05"
+  },
+  {
+    "cliente":"WILIANA VILELA GOMES .",
+    "potencia":2.82,
+    "preco":13921.37,
+    "parceiro":"JOÃO HENRIQUE  DOS SANTOS FRANCO",
+    "editor":"JOÃO HENRIQUE  DOS SANTOS FRANCO",
+    "telefone":"(13) 97409-9493",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-05"
+  },
+  {
+    "cliente":"WILIANA VILELA GOMES .",
+    "potencia":7.34,
+    "preco":27641.28,
+    "parceiro":"JOÃO HENRIQUE  DOS SANTOS FRANCO",
+    "editor":"JOÃO HENRIQUE  DOS SANTOS FRANCO",
+    "telefone":"(13) 97409-9493",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-05"
+  },
+  {
+    "cliente":"VINICIUS FROES MACHADO SANTOS",
+    "potencia":8.72,
+    "preco":52911.21,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(91) 98086-7608",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-01-05"
+  },
+  {
+    "cliente":"SUB TEN   TURQUES",
+    "potencia":6.54,
+    "preco":21029.95,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98336-5898",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-06"
+  },
+  {
+    "cliente":"CLAUDINEI  CASSIM",
+    "potencia":3.48,
+    "preco":9856.15,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99606-6532",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-08"
+  },
+  {
+    "cliente":"RESIDENCIAL ITAPUÃ CONDOMINIO ITAPUÃ",
+    "potencia":43.45,
+    "preco":241161.0,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(91) 98443-6802",
+    "fonte":"Indicação",
+    "data_criacao":"2024-01-08"
+  },
+  {
+    "cliente":"MAXWELL GIORGIO  VALÉRIO ZANNINO",
+    "potencia":2.9,
+    "preco":10754.47,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99777-6929",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-01-09"
+  },
+  {
+    "cliente":"RALPH  BRITO",
+    "potencia":2.9,
+    "preco":10754.47,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 97115-6009",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-01-09"
+  },
+  {
+    "cliente":"LEVI  DOMINGUES",
+    "potencia":2.72,
+    "preco":12500.0,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99755-3152",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-10"
+  },
+  {
+    "cliente":"WALDERLY APARECIDO  DOS SANTOS",
+    "potencia":5.13,
+    "preco":15028.52,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99726-2540",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-10"
+  },
+  {
+    "cliente":"FABIANA COSTA MOURA DE MELO",
+    "potencia":10.8,
+    "preco":36129.01,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 99909-0515",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-01-11"
+  },
+  {
+    "cliente":"FERNANDO MARIANO  ROSA MAURO",
+    "potencia":2.9,
+    "preco":9001.35,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99644-5544",
+    "fonte":"Indicação",
+    "data_criacao":"2024-01-11"
+  },
+  {
+    "cliente":"NILTON JOSE DOS SANTOS (TRANSP LTDA)",
+    "potencia":83.38,
+    "preco":267091.85,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 99987-3839",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-01-12"
+  },
+  {
+    "cliente":"MATEUS SANTIAGO SANTOS SILVA",
+    "potencia":7.54,
+    "preco":22818.65,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(073) 98845-4144",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-15"
+  },
+  {
+    "cliente":"JOSINEIDE  GOMES DA SILVA ",
+    "potencia":4.56,
+    "preco":12409.12,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(11) 99657-3630",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-17"
+  },
+  {
+    "cliente":"WAGNER PINTO WERMELINGER",
+    "potencia":2.7,
+    "preco":11577.65,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99233-1111",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-17"
+  },
+  {
+    "cliente":"MARIA EUGÊNIA OLIVEIRA CHIARETTI",
+    "potencia":2.7,
+    "preco":11577.65,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96455-5943",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-18"
+  },
+  {
+    "cliente":"JOÃO  PITARELO",
+    "potencia":8.72,
+    "preco":30000.0,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99819-2091",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-18"
+  },
+  {
+    "cliente":"ELIZOMARY ANDREA MENDES MEIRELES",
+    "potencia":2.18,
+    "preco":10875.57,
+    "parceiro":"ANTÔNIO MARCOS  GONÇALVES AUGUSTO",
+    "editor":"ANTÔNIO MARCOS  GONÇALVES AUGUSTO",
+    "telefone":"(021) 97340-9595",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-01-19"
+  },
+  {
+    "cliente":"PAULO ROGÉRIO  PINTO MARINHO",
+    "potencia":2.9,
+    "preco":10704.49,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98760-5818",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-01-19"
+  },
+  {
+    "cliente":"IVANA DA SILVA",
+    "potencia":4.06,
+    "preco":12941.29,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99712-0093",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-22"
+  },
+  {
+    "cliente":"BRUNO CARLOS  DIAS",
+    "potencia":111.15,
+    "preco":270294.61,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(027) 99704-1386",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-01-22"
+  },
+  {
+    "cliente":"NILTON MODESTO FILHO .",
+    "potencia":6.78,
+    "preco":23798.05,
+    "parceiro":"JOÃO HENRIQUE  DOS SANTOS FRANCO",
+    "editor":"JOÃO HENRIQUE  DOS SANTOS FRANCO",
+    "telefone":"(013) 99108-5238",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-23"
+  },
+  {
+    "cliente":"JOÃO MARCOS MENON",
+    "potencia":6.38,
+    "preco":19117.07,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(011) 99600-2020",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-24"
+  },
+  {
+    "cliente":"WALTECIA DOS SANTOS PEREIRA ",
+    "potencia":10.26,
+    "preco":29351.45,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97521-0533",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-24"
+  },
+  {
+    "cliente":"MARIANA LIMA  CAVALCANTE NOVAES",
+    "potencia":4.86,
+    "preco":16222.89,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98612-9131",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-01-24"
+  },
+  {
+    "cliente":"AUTO POSTO CONCHENSE LTDA",
+    "potencia":18.97,
+    "preco":50229.55,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(011) 98555-7032",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-25"
+  },
+  {
+    "cliente":"VALDECI ALVES DE ASSUNÇÃO",
+    "potencia":9.18,
+    "preco":31490.33,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 99904-9664",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-01-26"
+  },
+  {
+    "cliente":"ROBERTO S",
+    "potencia":3.48,
+    "preco":9800.15,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97534-2453",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-26"
+  },
+  {
+    "cliente":"MARCIA MARIA  DE ASSIS COTA",
+    "potencia":3.48,
+    "preco":13071.71,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 98169-3208",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-29"
+  },
+  {
+    "cliente":"DALVA MARIA LEITÃO ACIELM",
+    "potencia":19.72,
+    "preco":50000.0,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(91) 98258-8027",
+    "fonte":"Indicação",
+    "data_criacao":"2024-01-29"
+  },
+  {
+    "cliente":"JOHANNES TOET",
+    "potencia":32.94,
+    "preco":105599.32,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(119) 98078-492",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-29"
+  },
+  {
+    "cliente":"DOMIGOS  FATTOBENE JUNIOR",
+    "potencia":14.04,
+    "preco":48515.93,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(119) 53709-718",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-29"
+  },
+  {
+    "cliente":"BEATRIZ SILVA DE OLIVEIRA",
+    "potencia":7.08,
+    "preco":19927.35,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98156-5245",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-30"
+  },
+  {
+    "cliente":"DOMIGOS  FATTOBENE JUNIOR",
+    "potencia":14.04,
+    "preco":47368.8,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(119) 53709-718",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-30"
+  },
+  {
+    "cliente":"MARIO ITALO LIMA PALADINI",
+    "potencia":7.02,
+    "preco":18689.6,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(019) 99248-1848",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-30"
+  },
+  {
+    "cliente":"ERIKA  CANDEIAS ",
+    "potencia":10.44,
+    "preco":32785.0,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-30"
+  },
+  {
+    "cliente":"GEORGIA VIEIRA MELO DISTADIO",
+    "potencia":5.45,
+    "preco":18061.84,
+    "parceiro":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "editor":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "telefone":"(11) 93145-6999",
+    "fonte":"Lead",
+    "data_criacao":"2024-01-30"
+  },
+  {
+    "cliente":"RONALDO   DA S PEREIRA",
+    "potencia":115.0,
+    "preco":298670.94,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(21) 97601-2772",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-01-31"
+  },
+  {
+    "cliente":"MARISTELA  ARAUJO VITALE",
+    "potencia":10.36,
+    "preco":36998.17,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 98941-3253",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-02-01"
+  },
+  {
+    "cliente":"LUANA DOTTO DARONCH DA COSTA",
+    "potencia":88.56,
+    "preco":264597.66,
+    "parceiro":"EDUARDO  DE AZEVEDO CHAGAS",
+    "editor":"EDUARDO  DE AZEVEDO CHAGAS",
+    "telefone":"(47) 99952-5566",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-01"
+  },
+  {
+    "cliente":"LUANA DOTTO DARONCH DA COSTA",
+    "potencia":96.46,
+    "preco":269166.14,
+    "parceiro":"EDUARDO  DE AZEVEDO CHAGAS",
+    "editor":"EDUARDO  DE AZEVEDO CHAGAS",
+    "telefone":"(47) 99952-5566",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-01"
+  },
+  {
+    "cliente":"CELESTINO ALCANTARA DOS SANTOS",
+    "potencia":2.2,
+    "preco":8559.55,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(019) 99192-1253",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-01"
+  },
+  {
+    "cliente":"FERNANDO ANTÔNIO TREVIZANO DIANA",
+    "potencia":1.0,
+    "preco":3580.0,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98141-5678",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-01"
+  },
+  {
+    "cliente":"GONÇALO BATISTA DA SILVEIRA",
+    "potencia":5.45,
+    "preco":19779.78,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(319) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-03"
+  },
+  {
+    "cliente":"SUELI  E  (JOSEMAR  RIBEIRO BRITO)",
+    "potencia":8.12,
+    "preco":22005.02,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97171-7424",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-05"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":35.75,
+    "preco":99760.18,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-08"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":37.95,
+    "preco":168750.23,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-08"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":50.76,
+    "preco":139794.72,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-08"
+  },
+  {
+    "cliente":"SANDRO ROBERTO DEL BEM",
+    "potencia":4.06,
+    "preco":12817.62,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98125-0548",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-09"
+  },
+  {
+    "cliente":"REI DO GADO SALÃO DE FESTAS",
+    "potencia":110.4,
+    "preco":293539.73,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(21) 99986-9924",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-02-09"
+  },
+  {
+    "cliente":"LUIZ GONZAGA DA SILVA FESCINA",
+    "potencia":2.34,
+    "preco":15829.01,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99182-5099",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-13"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":61.52,
+    "preco":154484.99,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-14"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":37.95,
+    "preco":99905.7,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-14"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":40.26,
+    "preco":106056.3,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-16"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":40.26,
+    "preco":122000.56,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-16"
+  },
+  {
+    "cliente":"JOSÉ NOGUEIRA  FONTES",
+    "potencia":6.9,
+    "preco":24960.0,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(079) 99921-1657",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-02-17"
+  },
+  {
+    "cliente":"F R MELO DOS SANTOS ME",
+    "potencia":6.84,
+    "preco":17400.0,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 97399-2189",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-02-19"
+  },
+  {
+    "cliente":"KETAREM DANTAS DOS SANTOS",
+    "potencia":7.02,
+    "preco":19610.69,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(55) 99610-1455",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-19"
+  },
+  {
+    "cliente":"JOÃO PALADINI",
+    "potencia":3.82,
+    "preco":13644.27,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98122-0060",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-20"
+  },
+  {
+    "cliente":"CARLITO SALGUEIRO DA SILVA",
+    "potencia":14.72,
+    "preco":40046.06,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99273-3907",
+    "fonte":"Indicação",
+    "data_criacao":"2024-02-21"
+  },
+  {
+    "cliente":"GUILHERME SAMPAIO DE  OLIVEIRA",
+    "potencia":10.36,
+    "preco":53558.65,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(71) 99697-0260",
+    "fonte":"Indicação",
+    "data_criacao":"2024-02-21"
+  },
+  {
+    "cliente":"WALDERLY APARECIDO  DOS SANTOS",
+    "potencia":4.56,
+    "preco":13400.0,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99726-2540",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-02-22"
+  },
+  {
+    "cliente":"JOEL DE  BIAZZI",
+    "potencia":6.27,
+    "preco":16749.95,
+    "parceiro":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "editor":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "telefone":"(011) 97488-0630",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-02-24"
+  },
+  {
+    "cliente":"LUIS  ANTONIO LEME",
+    "potencia":8.77,
+    "preco":23505.11,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97218-0509",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-26"
+  },
+  {
+    "cliente":"FELIPE AMARAL",
+    "potencia":112.29,
+    "preco":215164.99,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 98875-6830",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-02-27"
+  },
+  {
+    "cliente":"LABORTEST LABORATORIO DE ANALISES CLINICAS LTDA",
+    "potencia":88.29,
+    "preco":242591.83,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(064) 99987-2322",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-02-27"
+  },
+  {
+    "cliente":"ELI SALVADOR",
+    "potencia":7.98,
+    "preco":21117.57,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(018) 98125-1147",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-28"
+  },
+  {
+    "cliente":"CATIANA SOUZA",
+    "potencia":3.82,
+    "preco":10882.09,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99785-5180",
+    "fonte":"Lead",
+    "data_criacao":"2024-02-29"
+  },
+  {
+    "cliente":"JOSÉ ADAUTO PEREIRA DE   MATOS",
+    "potencia":16.53,
+    "preco":34000.0,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 98583-4482",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-01"
+  },
+  {
+    "cliente":"SERGIO DE OLIVEIRA",
+    "potencia":3.99,
+    "preco":10000.0,
+    "parceiro":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(319) 8806-5509",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-04"
+  },
+  {
+    "cliente":"PAULO PEREIRA  PINTO",
+    "potencia":26.16,
+    "preco":79695.9,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(031) 99967-4839",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-03-06"
+  },
+  {
+    "cliente":"CAMYLA TESTE OLIVEIRA",
+    "potencia":4.56,
+    "preco":14078.57,
+    "parceiro":"ANDRE  ARLANN SILVA OLIVEIRA",
+    "editor":"ANDRE  ARLANN SILVA OLIVEIRA",
+    "telefone":"(031) 99377-7777",
+    "fonte":"Indicação",
+    "data_criacao":"2024-03-08"
+  },
+  {
+    "cliente":"DIEGO VIEIRA MARTINS",
+    "potencia":1.72,
+    "preco":8459.81,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 34401-531",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-09"
+  },
+  {
+    "cliente":"MARCOS ANTONIO  SHERER",
+    "potencia":2.72,
+    "preco":11890.41,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 99952-3410",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-09"
+  },
+  {
+    "cliente":"ANDERSON  MEIRELES",
+    "potencia":4.6,
+    "preco":17031.11,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96580-9118",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-11"
+  },
+  {
+    "cliente":"ADRIANA MIRA ENANDE FERNANDES",
+    "potencia":5.7,
+    "preco":16510.27,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99783-8657",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-12"
+  },
+  {
+    "cliente":"MARCIO  EDUARDO",
+    "potencia":17.44,
+    "preco":47134.28,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 98775-663",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-13"
+  },
+  {
+    "cliente":"CARLOS  EDUARDO",
+    "potencia":3.48,
+    "preco":11865.13,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99616-5090",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-03-14"
+  },
+  {
+    "cliente":"ROBERTO  RULLI",
+    "potencia":14.17,
+    "preco":40027.9,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 94228-0777",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-15"
+  },
+  {
+    "cliente":"ALESSANDRA RIBEIRO CORREA",
+    "potencia":1.65,
+    "preco":15219.15,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(91) 98160-2083",
+    "fonte":"Indicação",
+    "data_criacao":"2024-03-16"
+  },
+  {
+    "cliente":"LAIZE  DA SILVA LEITE DA COSTA",
+    "potencia":3.45,
+    "preco":12859.03,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 96540-1172",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-16"
+  },
+  {
+    "cliente":"ANA  RANGEL MIRANDA CRUZ",
+    "potencia":8.72,
+    "preco":23352.9,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 98898-8119",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-16"
+  },
+  {
+    "cliente":"ISIDÓRIO  ARAÚJO FIGUEREDO",
+    "potencia":3.82,
+    "preco":13299.02,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 97002-4731",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-16"
+  },
+  {
+    "cliente":"LUIZ SÉRGIO DANIEL JUNIOR",
+    "potencia":2.88,
+    "preco":11423.68,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 99459-8367",
+    "fonte":"Ação comercial",
+    "data_criacao":"2024-03-17"
+  },
+  {
+    "cliente":"BENEDITO JAN MAIA MOREIRA",
+    "potencia":4.02,
+    "preco":15471.41,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(024) 99821-6817",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-17"
+  },
+  {
+    "cliente":"WALACE DOS SANTOS ROSA",
+    "potencia":2.18,
+    "preco":10503.95,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 98802-1040",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-18"
+  },
+  {
+    "cliente":"DEMETRIUS  VILA REAL PARK",
+    "potencia":6.38,
+    "preco":21343.68,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 99643-1224",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-19"
+  },
+  {
+    "cliente":"ANA  RANGEL MIRANDA CRUZ",
+    "potencia":5.45,
+    "preco":16138.01,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 98898-8119",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-20"
+  },
+  {
+    "cliente":"GILBERTO APARECIDO  DE ANDRADE JÚNIOR ",
+    "potencia":3.42,
+    "preco":11441.58,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 98868-1412",
+    "fonte":"Indicação",
+    "data_criacao":"2024-03-20"
+  },
+  {
+    "cliente":"ACSA PINTO DA SILVA",
+    "potencia":2.18,
+    "preco":10045.63,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 97501-7760",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-20"
+  },
+  {
+    "cliente":"HENRIQUE HENRIQUE",
+    "potencia":13.11,
+    "preco":33326.18,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99637-3127",
+    "fonte":"Indicação",
+    "data_criacao":"2024-03-22"
+  },
+  {
+    "cliente":"CEZARIO SILVA DE ALENCAR",
+    "potencia":4.6,
+    "preco":13566.67,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96533-2235",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-03-22"
+  },
+  {
+    "cliente":"RODRIGO  GOMES DE MORAES",
+    "potencia":4.36,
+    "preco":13999.79,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 97481-9970",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-23"
+  },
+  {
+    "cliente":"AUGUSTO  CORREA DAS NEVES",
+    "potencia":2.9,
+    "preco":19156.83,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(219) 81145-407",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-25"
+  },
+  {
+    "cliente":"THIAGO ELIEZER FRANCO PEREIRA",
+    "potencia":3.42,
+    "preco":10450.82,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97477-1674",
+    "fonte":"Indicação",
+    "data_criacao":"2024-03-26"
+  },
+  {
+    "cliente":"ANTÔNIO PEDRO DE  SOUSA",
+    "potencia":3.42,
+    "preco":10620.0,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(081) 99663-1632",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-26"
+  },
+  {
+    "cliente":"JONALDO SOUZA  COELHO",
+    "potencia":11.7,
+    "preco":27811.04,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 73775-044",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-03-27"
+  },
+  {
+    "cliente":"LUIZ  CALDERONI",
+    "potencia":4.6,
+    "preco":14780.48,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(44) 99146-8444",
+    "fonte":"Indicação",
+    "data_criacao":"2024-03-27"
+  },
+  {
+    "cliente":"CARLOS ROBERTO TOLEDO",
+    "potencia":5.45,
+    "preco":20966.95,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 97264-2675",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-28"
+  },
+  {
+    "cliente":"PRIMEIRA IGREJA BATISTA MOÇA BONITA",
+    "potencia":43.88,
+    "preco":89846.25,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(021) 24019-433",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-03-28"
+  },
+  {
+    "cliente":"IZIDÓRIO  ARAÚJO FIGUEREDO",
+    "potencia":4.02,
+    "preco":15711.45,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 97002-4731",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-28"
+  },
+  {
+    "cliente":"ARIANA LUDMILA DE OLIVEIRA RESENDE",
+    "potencia":2.72,
+    "preco":11448.61,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 98556-3995",
+    "fonte":"Indicação",
+    "data_criacao":"2024-03-28"
+  },
+  {
+    "cliente":"PATRÍCIA PIOVEZAN RIZZO",
+    "potencia":11.44,
+    "preco":30062.05,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 98970-8164",
+    "fonte":"Indicação",
+    "data_criacao":"2024-03-28"
+  },
+  {
+    "cliente":"COMÉRCIO DE MÓVEIS E MARCENARIA LTDA ME",
+    "potencia":21.28,
+    "preco":56372.1,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(21) 99776-2709",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-28"
+  },
+  {
+    "cliente":"VICTOR EMANUEL DE ATAIDE PONTE",
+    "potencia":12.87,
+    "preco":63377.23,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 70327-879",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-03-28"
+  },
+  {
+    "cliente":"VICTOR EMANUEL DE ATAIDE PONTE",
+    "potencia":12.87,
+    "preco":66757.35,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 70327-879",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-03-28"
+  },
+  {
+    "cliente":"GERSON  APARECIDO  DOMINGUES DE CAMARGO ",
+    "potencia":4.1,
+    "preco":11553.0,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97383-2725",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-30"
+  },
+  {
+    "cliente":"RONALDO   DA S PEREIRA",
+    "potencia":4.36,
+    "preco":16270.61,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(21) 97601-2772",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-03-30"
+  },
+  {
+    "cliente":"RODNEY GUAZZELLI",
+    "potencia":5.85,
+    "preco":18286.11,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 96185-2275",
+    "fonte":"Lead",
+    "data_criacao":"2024-03-30"
+  },
+  {
+    "cliente":"RAQUEL MELO DA  SILVA",
+    "potencia":8.48,
+    "preco":42087.61,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99955-7660",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-01"
+  },
+  {
+    "cliente":"EDIFICIO SAO FRANCISCO DE  PAULA",
+    "potencia":35.1,
+    "preco":87482.46,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99940-7597",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-01"
+  },
+  {
+    "cliente":"SIDNEI SIDNEI",
+    "potencia":9.2,
+    "preco":22225.12,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 99804-1055",
+    "fonte":"Ação comercial",
+    "data_criacao":"2024-04-01"
+  },
+  {
+    "cliente":"THIAGO ANDRADE",
+    "potencia":2.88,
+    "preco":12365.51,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99936-1461",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-04-03"
+  },
+  {
+    "cliente":"IGOR DE SOUZA BREDA",
+    "potencia":3.27,
+    "preco":14242.75,
+    "parceiro":"MARCO AURELIO  MEDEIROS SILVA",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-03"
+  },
+  {
+    "cliente":"CONDOMINIO  SERRA DO SOL",
+    "potencia":8.72,
+    "preco":27473.91,
+    "parceiro":"MARCO AURELIO  MEDEIROS SILVA",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-04-03"
+  },
+  {
+    "cliente":"CONDOMINIO  SERRA DO SOL",
+    "potencia":12.54,
+    "preco":38024.28,
+    "parceiro":"MARCO AURELIO  MEDEIROS SILVA",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-04-03"
+  },
+  {
+    "cliente":"TESTE8 TESTE",
+    "potencia":7.08,
+    "preco":25557.18,
+    "parceiro":"ALBERTO ROCHA",
+    "editor":"ALBERTO ROCHA",
+    "telefone":null,
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-04-03"
+  },
+  {
+    "cliente":"PNEUS SUPER NOVOS E REFORMADOS LTDA PNEUS",
+    "potencia":23.4,
+    "preco":90273.77,
+    "parceiro":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "editor":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "telefone":"(319) 91796-770",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-04"
+  },
+  {
+    "cliente":"REGINALDO  RAMOS",
+    "potencia":9.52,
+    "preco":25696.24,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99716-3929",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-04"
+  },
+  {
+    "cliente":"PEDRO  MARCELINO DE ALMEIDA",
+    "potencia":3.51,
+    "preco":11093.2,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99712-0167",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-04"
+  },
+  {
+    "cliente":"JORGE MARQUES RIBEIRO",
+    "potencia":3.39,
+    "preco":20294.54,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 87743-000",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-04"
+  },
+  {
+    "cliente":"RUBENS ABRANTES AGUIAR FILHO",
+    "potencia":2.18,
+    "preco":10871.22,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(11) 99946-3713",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-04"
+  },
+  {
+    "cliente":"ROGERIO LEANDRO DOS SANTOS",
+    "potencia":14.17,
+    "preco":44605.13,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 98680-1153",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-04-05"
+  },
+  {
+    "cliente":"ROBSON SANTOS",
+    "potencia":86.07,
+    "preco":187595.13,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(11) 94013-3759",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-05"
+  },
+  {
+    "cliente":"MARCOS ROBERTO DE MEDEIROS",
+    "potencia":5.26,
+    "preco":15068.01,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99790-0172",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-05"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":5.85,
+    "preco":17233.24,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-05"
+  },
+  {
+    "cliente":"MAURINO CARDOSO DE CARVALHO ",
+    "potencia":3.99,
+    "preco":11538.37,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(024) 99813-7213",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-04-06"
+  },
+  {
+    "cliente":"REGINALDO  RAMOS",
+    "potencia":9.94,
+    "preco":29613.75,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99716-3929",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-08"
+  },
+  {
+    "cliente":"FAMILIA COSTA ALIMENTOS RESTAURANTE E PADARIA LTDA",
+    "potencia":38.76,
+    "preco":92788.3,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 99081-0091",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-04-08"
+  },
+  {
+    "cliente":"RONALDO   DA S PEREIRA",
+    "potencia":7.41,
+    "preco":19528.96,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(21) 97601-2772",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-09"
+  },
+  {
+    "cliente":"MARIANA  LINBERG",
+    "potencia":4.44,
+    "preco":12337.95,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99405-4747",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-04-11"
+  },
+  {
+    "cliente":"MAYRA  RANGEL MIRANDA CRUZ",
+    "potencia":4.36,
+    "preco":12540.26,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(021) 97111-0413",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-04-11"
+  },
+  {
+    "cliente":"GEOMIR ALAN DA CAS",
+    "potencia":7.08,
+    "preco":25539.93,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(549) 96664-101",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-12"
+  },
+  {
+    "cliente":"GERALDO FERREIRA CAMPOS",
+    "potencia":6.0,
+    "preco":15687.96,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 97804-5304",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-15"
+  },
+  {
+    "cliente":"EDILEUZA VERISSIMO DOS SANTOS",
+    "potencia":6.44,
+    "preco":18700.0,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(819) 98416-673",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-15"
+  },
+  {
+    "cliente":"INGRED MOREIRA ALFENAS",
+    "potencia":3.51,
+    "preco":13014.84,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(031) 98674-2674",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-15"
+  },
+  {
+    "cliente":"ANDERSON JOSÉ ",
+    "potencia":4.1,
+    "preco":11536.87,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99748-6085",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-16"
+  },
+  {
+    "cliente":"WILSON FAUSTO PACHECO",
+    "potencia":48.56,
+    "preco":126559.93,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 98499-8265",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-04-16"
+  },
+  {
+    "cliente":"ÉRICA  ...",
+    "potencia":8.19,
+    "preco":19557.79,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(031) 91455-575",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-17"
+  },
+  {
+    "cliente":"SERGIO  ROBERTO VIEIRA",
+    "potencia":4.1,
+    "preco":11000.0,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99875-9702",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-17"
+  },
+  {
+    "cliente":"FELIPE MECANICO",
+    "potencia":9.18,
+    "preco":26171.4,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(11) 91785-1443",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-17"
+  },
+  {
+    "cliente":"MARCEL DA SILVA ZULIANI",
+    "potencia":18.72,
+    "preco":48021.24,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99794-0034",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-18"
+  },
+  {
+    "cliente":"ANA APARECIDA DA SILVA",
+    "potencia":7.15,
+    "preco":24424.27,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 97472-9690",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-19"
+  },
+  {
+    "cliente":"DIRCILENE DOS SANTOS",
+    "potencia":5.45,
+    "preco":13885.98,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 97609-4884",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-20"
+  },
+  {
+    "cliente":"CLEITON TADEU MARQUES LOURENÇO",
+    "potencia":0.53,
+    "preco":1912.28,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98192-6982",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-21"
+  },
+  {
+    "cliente":"RENATO LEITE  TEIXEIRA",
+    "potencia":5.26,
+    "preco":17082.72,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 93316-4506",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-22"
+  },
+  {
+    "cliente":"ANA CLARA",
+    "potencia":16.24,
+    "preco":45209.51,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 96257-4561",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-23"
+  },
+  {
+    "cliente":"GABRIELA CANDIDO  OLIVEIRA  (RENATO )",
+    "potencia":4.68,
+    "preco":13655.12,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99520-2755",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-24"
+  },
+  {
+    "cliente":"MARCIA MARIA  DE ASSIS COTA",
+    "potencia":7.63,
+    "preco":17267.0,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 98169-3208",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-25"
+  },
+  {
+    "cliente":"TAVINHO MECÂNICO ",
+    "potencia":2.7,
+    "preco":10984.52,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(119) 74538-568",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-26"
+  },
+  {
+    "cliente":"F R MELO DOS SANTOS ME",
+    "potencia":12.54,
+    "preco":40929.87,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 97399-2189",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-04-28"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":6.05,
+    "preco":18557.38,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-29"
+  },
+  {
+    "cliente":"TESTE SOROCABA",
+    "potencia":2.44,
+    "preco":16196.2,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 96446-2525",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-29"
+  },
+  {
+    "cliente":"MARCIA MARIA  DE ASSIS COTA",
+    "potencia":7.08,
+    "preco":18200.0,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(15) 98169-3208",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-30"
+  },
+  {
+    "cliente":"MARCEL DA SILVA ZULIANI",
+    "potencia":18.72,
+    "preco":46419.52,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99794-0034",
+    "fonte":"Lead",
+    "data_criacao":"2024-04-30"
+  },
+  {
+    "cliente":"BERNARDO  CARVALHO DA SILVA",
+    "potencia":10.36,
+    "preco":24100.95,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 98829-7189",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-30"
+  },
+  {
+    "cliente":"ANTÔNIO MARCIO DA MOTTA MOREIRA",
+    "potencia":7.08,
+    "preco":17866.98,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98015-3910",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-30"
+  },
+  {
+    "cliente":"KARINA DE FREITAS ROCHA",
+    "potencia":3.82,
+    "preco":12422.32,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 98117-8676",
+    "fonte":"Indicação",
+    "data_criacao":"2024-04-30"
+  },
+  {
+    "cliente":"SERGIO JAUDINO REBELO",
+    "potencia":5.94,
+    "preco":20415.18,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99630-4237",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-02"
+  },
+  {
+    "cliente":"ESTHEFANI  COSTA ARCELINO JOSE GALDINO",
+    "potencia":7.08,
+    "preco":15943.87,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 92593-857",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-05-03"
+  },
+  {
+    "cliente":"RICARDO MARCOS DE OLIVEIRA ",
+    "potencia":4.9,
+    "preco":15168.84,
+    "parceiro":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "editor":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "telefone":"(319) 99870-004",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-05-03"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":5.45,
+    "preco":32793.06,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-04"
+  },
+  {
+    "cliente":"JOSE CAVALCANTI SOBRINHO  JUNIOR",
+    "potencia":22.89,
+    "preco":112116.57,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 98197-3118",
+    "fonte":"Indicação",
+    "data_criacao":"2024-05-04"
+  },
+  {
+    "cliente":"WELLINGTHON  NAGATHANI",
+    "potencia":4.86,
+    "preco":14260.3,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(11) 97257-1504",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-05"
+  },
+  {
+    "cliente":"RAFAEL WEBER",
+    "potencia":2.7,
+    "preco":11687.5,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(11) 93250-0989",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-06"
+  },
+  {
+    "cliente":"RICARDO MARCOS DE OLIVEIRA ",
+    "potencia":3.82,
+    "preco":16625.56,
+    "parceiro":"PAULO  HENRIQUES",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(319) 99870-004",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-06"
+  },
+  {
+    "cliente":"EDWILSON BATISTA ESPINELO",
+    "potencia":10.36,
+    "preco":24192.95,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(229) 98829-7189",
+    "fonte":"Indicação",
+    "data_criacao":"2024-05-08"
+  },
+  {
+    "cliente":"NIRLEN ANTÔNIO RODRIGUES",
+    "potencia":6.84,
+    "preco":26945.02,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(024) 98822-5018",
+    "fonte":"Indicação",
+    "data_criacao":"2024-05-09"
+  },
+  {
+    "cliente":"MATEUS SILVA BENITES",
+    "potencia":10.36,
+    "preco":24496.95,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(11) 97573-1702",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-10"
+  },
+  {
+    "cliente":"ALEXANDRE MAGNO  D'AMATO VILLARDI",
+    "potencia":5.45,
+    "preco":14518.18,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96474-4478",
+    "fonte":"Indicação",
+    "data_criacao":"2024-05-12"
+  },
+  {
+    "cliente":"ELIAS  PAULA DE MORARE ",
+    "potencia":4.68,
+    "preco":13525.25,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(035) 99295-716",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-13"
+  },
+  {
+    "cliente":"INSTITUTO TERAPÊUTICO YGGDRASIL LTDA.",
+    "potencia":41.14,
+    "preco":193147.73,
+    "parceiro":"RODRIGO SANTOS",
+    "editor":"RODRIGO SANTOS",
+    "telefone":"(11) 91347-8668",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-05-13"
+  },
+  {
+    "cliente":"WESLEY BRAGA DOS SANTOS",
+    "potencia":2.5,
+    "preco":11672.83,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 98947-8580",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-05-17"
+  },
+  {
+    "cliente":" JÉSSICA PEREIRA  CUNHA",
+    "potencia":8.91,
+    "preco":55092.81,
+    "parceiro":"CID WANDERSON  GOMES EUSTAQUIO",
+    "editor":"LUIZ FERNANDO",
+    "telefone":"(021) 98012-3113",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-27"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":10.9,
+    "preco":35639.67,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-27"
+  },
+  {
+    "cliente":"ANA FABIA SANTOS  CASTELAR CABRAL",
+    "potencia":5.85,
+    "preco":15828.35,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 97402-7873",
+    "fonte":"Indicação",
+    "data_criacao":"2024-05-28"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":8.64,
+    "preco":26144.8,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-05-29"
+  },
+  {
+    "cliente":"NILMAN  VIANA MESQUITA",
+    "potencia":2.78,
+    "preco":9577.57,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 98846-7798",
+    "fonte":"Indicação",
+    "data_criacao":"2024-05-29"
+  },
+  {
+    "cliente":"TESTE6 TESTE",
+    "potencia":8.88,
+    "preco":28971.5,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":null,
+    "fonte":"Lead",
+    "data_criacao":"2024-05-29"
+  },
+  {
+    "cliente":"JOAO CESAR CERQUEIRA",
+    "potencia":6.0,
+    "preco":19965.4,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99883-7953",
+    "fonte":"Indicação",
+    "data_criacao":"2024-05-31"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":20.7,
+    "preco":49311.33,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-05"
+  },
+  {
+    "cliente":"BRENO LANA DE SIQUEIRA",
+    "potencia":2.28,
+    "preco":9695.49,
+    "parceiro":"PAULO  HENRIQUES",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(319) 99796-9063",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-05"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":20.7,
+    "preco":59990.55,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-05"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":15.52,
+    "preco":45118.89,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-05"
+  },
+  {
+    "cliente":"INSTITUTO ESPIRITA EURIPEDES",
+    "potencia":16.35,
+    "preco":55813.38,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(31) 99531-4020",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-06-05"
+  },
+  {
+    "cliente":"INSTITUTO ESPIRITA EURIPEDES",
+    "potencia":16.35,
+    "preco":45111.97,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(31) 99531-4020",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-06-05"
+  },
+  {
+    "cliente":"RAFAEL VASCONCELLOS",
+    "potencia":8.48,
+    "preco":19627.72,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 97190-9012",
+    "fonte":"Indicação",
+    "data_criacao":"2024-06-05"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":3.42,
+    "preco":10061.84,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-06-06"
+  },
+  {
+    "cliente":"MALLWE .",
+    "potencia":5.7,
+    "preco":13880.01,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(035) 84236-693",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-06"
+  },
+  {
+    "cliente":"INSTITUTO  ESPIRITA EURIPEDES ARB18",
+    "potencia":16.35,
+    "preco":55813.38,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 98827-5019",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-06"
+  },
+  {
+    "cliente":"INSTITUTO ESPIRITA EURIPEDES ARL40",
+    "potencia":16.35,
+    "preco":55813.38,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 98827-5019",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-06-06"
+  },
+  {
+    "cliente":"ALEX  ADONIAS RODRIGUES",
+    "potencia":3.99,
+    "preco":11471.92,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99610-2214",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-07"
+  },
+  {
+    "cliente":"DANIELA ARARUAMA",
+    "potencia":3.42,
+    "preco":9999.21,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99845-1661",
+    "fonte":"Indicação",
+    "data_criacao":"2024-06-07"
+  },
+  {
+    "cliente":"KASSIO LIMA  SILVA",
+    "potencia":28.88,
+    "preco":99908.01,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(031) 98785-7165",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-06-11"
+  },
+  {
+    "cliente":"JOSÉ  ROBERTO ALVES ",
+    "potencia":32.77,
+    "preco":102264.05,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 98366-9200",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-11"
+  },
+  {
+    "cliente":"ERICA SILVA  BAPTISTA SOARES",
+    "potencia":2.22,
+    "preco":8764.31,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 98137-1544",
+    "fonte":"Indicação",
+    "data_criacao":"2024-06-11"
+  },
+  {
+    "cliente":"DANIEL  GLEBA",
+    "potencia":2.7,
+    "preco":26556.52,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(11) 97809-1081",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-11"
+  },
+  {
+    "cliente":"JEAN CLAUDIO  DE SOUZA RIBEIRO",
+    "potencia":4.68,
+    "preco":11875.0,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99835-6886",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-06-11"
+  },
+  {
+    "cliente":"WILLIAM VASCONCELOS ANGELO",
+    "potencia":14.12,
+    "preco":33267.06,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 95914-6457",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-06-13"
+  },
+  {
+    "cliente":"ALEX  ADONIAS RODRIGUES",
+    "potencia":5.7,
+    "preco":15442.7,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99610-2214",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-13"
+  },
+  {
+    "cliente":"ALEX  ADONIAS RODRIGUES",
+    "potencia":5.7,
+    "preco":15442.7,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99610-2214",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-13"
+  },
+  {
+    "cliente":"SARA VIRGINA ROCHA DE  QUEIROZ ",
+    "potencia":3.6,
+    "preco":13979.98,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99647-0742",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-17"
+  },
+  {
+    "cliente":"JOSE AMARO DA SILVA (RAFAEL CORTEZ PRIMO)",
+    "potencia":7.0,
+    "preco":17521.12,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 94159-1489",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-17"
+  },
+  {
+    "cliente":"TESTE8 TESTE",
+    "potencia":12.54,
+    "preco":29900.0,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":null,
+    "fonte":"Lead",
+    "data_criacao":"2024-06-18"
+  },
+  {
+    "cliente":"ALEMAO LAVA RAPIDO",
+    "potencia":6.54,
+    "preco":17924.67,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(119) 11262-909",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-19"
+  },
+  {
+    "cliente":"KADU  RESORT ARARUAMA",
+    "potencia":91.02,
+    "preco":185085.44,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99580-2500",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-06-19"
+  },
+  {
+    "cliente":"FATIMA CRISTINA RIBEIRO TINOCO",
+    "potencia":5.92,
+    "preco":17707.4,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 83829-189",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-06-21"
+  },
+  {
+    "cliente":"TESTE8 TESTE",
+    "potencia":34.2,
+    "preco":67906.53,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":null,
+    "fonte":"Lead",
+    "data_criacao":"2024-06-24"
+  },
+  {
+    "cliente":"RAFAEL  GRAMIGHANI JERONYMO",
+    "potencia":4.56,
+    "preco":13624.35,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 12345-6789",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-24"
+  },
+  {
+    "cliente":"SENIVAL APARECIDO DA SILVA",
+    "potencia":3.33,
+    "preco":35728.49,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 98278-5742",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-06-25"
+  },
+  {
+    "cliente":"SIMONE APARECIDA  CENTOFANTI",
+    "potencia":5.7,
+    "preco":15381.85,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99954-3076",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-25"
+  },
+  {
+    "cliente":"JULIO GUARDÃO",
+    "potencia":7.41,
+    "preco":17760.67,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 98759-8522",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-25"
+  },
+  {
+    "cliente":"MIGUEL MARTINIANO MARQUES ",
+    "potencia":1.71,
+    "preco":7321.83,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99657-3630",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-25"
+  },
+  {
+    "cliente":"ANTONIA  DE SOUZA FIGUEREDO",
+    "potencia":5.7,
+    "preco":14000.0,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 99776-8229",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-06-27"
+  },
+  {
+    "cliente":"VALERIA  DOS SANTOS CUNHA",
+    "potencia":14.5,
+    "preco":36897.7,
+    "parceiro":"EDUARDO  DE AZEVEDO CHAGAS",
+    "editor":"EDUARDO  DE AZEVEDO CHAGAS",
+    "telefone":"(48) 99924-5359",
+    "fonte":"Indicação",
+    "data_criacao":"2024-06-27"
+  },
+  {
+    "cliente":"VALERIA  DOS SANTOS CUNHA",
+    "potencia":14.69,
+    "preco":37884.8,
+    "parceiro":"EDUARDO  DE AZEVEDO CHAGAS",
+    "editor":"EDUARDO  DE AZEVEDO CHAGAS",
+    "telefone":"(48) 99924-5359",
+    "fonte":"Indicação",
+    "data_criacao":"2024-06-27"
+  },
+  {
+    "cliente":"ERLENILDE SANTOS",
+    "potencia":4.56,
+    "preco":14000.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(041) 68979-7878",
+    "fonte":"Indicação",
+    "data_criacao":"2024-06-27"
+  },
+  {
+    "cliente":"CLAUDINEI APARECIDO  AZZIZ",
+    "potencia":3.42,
+    "preco":10537.68,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97111-4599",
+    "fonte":"Lead",
+    "data_criacao":"2024-06-28"
+  },
+  {
+    "cliente":"LUSINEIDE  JESUS DA SILVA ",
+    "potencia":7.56,
+    "preco":52719.27,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 97416-5089",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-01"
+  },
+  {
+    "cliente":"ELOI GONÇALVES CRISPIM",
+    "potencia":39.9,
+    "preco":87753.58,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 97051-4082",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-07-03"
+  },
+  {
+    "cliente":"SELVINO GOMES FELIX",
+    "potencia":8.64,
+    "preco":20731.33,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 98870-0142",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-07-03"
+  },
+  {
+    "cliente":"ABDIEL BATISTA SILVA",
+    "potencia":108.78,
+    "preco":256185.85,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99541-5480",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-03"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":5.94,
+    "preco":18977.75,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-04"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":5.08,
+    "preco":16556.33,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-04"
+  },
+  {
+    "cliente":"TESTE 1 JARINU CLIENTE ",
+    "potencia":3.42,
+    "preco":8000.0,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(110) 00000-0000",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-04"
+  },
+  {
+    "cliente":"JOAO MILANI",
+    "potencia":4.32,
+    "preco":39017.63,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(119) 34998-447",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-05"
+  },
+  {
+    "cliente":"JOAO MILANI",
+    "potencia":4.32,
+    "preco":13100.3,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(119) 34998-447",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-05"
+  },
+  {
+    "cliente":"NKJC  MAGAZINE E PERFUMARIA LTDA",
+    "potencia":293.82,
+    "preco":558480.74,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 94070-7651",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-09"
+  },
+  {
+    "cliente":"VITORINO BRITO BRITO",
+    "potencia":10.54,
+    "preco":47405.08,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(91) 86160-2083",
+    "fonte":"Indicação",
+    "data_criacao":"2024-07-09"
+  },
+  {
+    "cliente":"EDER CLÁUDIO MARTINS DAS NEVES",
+    "potencia":3.42,
+    "preco":12777.5,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(91) 98032-1999",
+    "fonte":"Indicação",
+    "data_criacao":"2024-07-10"
+  },
+  {
+    "cliente":"SERGIO V  CAVALCANTI",
+    "potencia":7.41,
+    "preco":18439.3,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99777-7077",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-11"
+  },
+  {
+    "cliente":"GILBERTO RUAS FERREIRA .",
+    "potencia":6.78,
+    "preco":26219.48,
+    "parceiro":"JOÃO HENRIQUE  DOS SANTOS FRANCO",
+    "editor":"JOÃO HENRIQUE  DOS SANTOS FRANCO",
+    "telefone":"(013) 98181-4490",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-07-12"
+  },
+  {
+    "cliente":"LUSINEIDE  JESUS DA SILVA ",
+    "potencia":10.26,
+    "preco":155969.01,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 97416-5089",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-16"
+  },
+  {
+    "cliente":"TESTE SIMULAÇÃO",
+    "potencia":5.0,
+    "preco":21870.0,
+    "parceiro":"ALBERTO ROCHA",
+    "editor":"ALBERTO ROCHA",
+    "telefone":"(011) 99999-9555",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-07-19"
+  },
+  {
+    "cliente":"EMIDIO  HUGEN JUNIOR",
+    "potencia":5.5,
+    "preco":21404.46,
+    "parceiro":"ALBERTO ROCHA",
+    "editor":"ALBERTO ROCHA",
+    "telefone":"(48) 99138-3355",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-07-19"
+  },
+  {
+    "cliente":"ANDRIELI CARLOS",
+    "potencia":18.53,
+    "preco":46212.26,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 97389-7691",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-19"
+  },
+  {
+    "cliente":"ANDRIELI CARLOS",
+    "potencia":21.8,
+    "preco":47418.34,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 97389-7691",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-19"
+  },
+  {
+    "cliente":"LUIZ  ALEXANDRE",
+    "potencia":4.77,
+    "preco":14236.16,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 94275-6330",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-22"
+  },
+  {
+    "cliente":"MM CARRARO  EMPREENDIMENTOS IMOBILIARIOS",
+    "potencia":2.44,
+    "preco":8781.82,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(019) 99144-0479",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-23"
+  },
+  {
+    "cliente":"WILSON SANTOS JR",
+    "potencia":7.41,
+    "preco":19965.85,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99126-1023",
+    "fonte":"Indicação",
+    "data_criacao":"2024-07-23"
+  },
+  {
+    "cliente":"TESTE  RENATA E MARCO",
+    "potencia":19.89,
+    "preco":40935.39,
+    "parceiro":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "editor":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "telefone":"(031) 99330-5870",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-23"
+  },
+  {
+    "cliente":"MARIA DINALVA MONTEIRO DE CARVALHO",
+    "potencia":3.0,
+    "preco":22327.47,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(91) 9616-4908",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-24"
+  },
+  {
+    "cliente":"EDSON SAVIOLLI",
+    "potencia":6.27,
+    "preco":17367.61,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 95557-1525",
+    "fonte":"Indicação",
+    "data_criacao":"2024-07-24"
+  },
+  {
+    "cliente":"SERGIO V  CAVALCANTI",
+    "potencia":8.32,
+    "preco":22211.56,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99777-7077",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-24"
+  },
+  {
+    "cliente":"SERGIO V  CAVALCANTI",
+    "potencia":8.32,
+    "preco":23380.59,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99777-7077",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-24"
+  },
+  {
+    "cliente":"SERGIO V  CAVALCANTI",
+    "potencia":6.71,
+    "preco":19566.87,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99777-7077",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-24"
+  },
+  {
+    "cliente":"(MIRIAN) MARIA  VICENTINA  MARTINS DE LIMA ",
+    "potencia":2.44,
+    "preco":9167.84,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 94277-2251",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-24"
+  },
+  {
+    "cliente":"BRUNO  GONÇALVES CAVALCANTE",
+    "potencia":8.32,
+    "preco":23380.59,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(159) 97777-077",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-25"
+  },
+  {
+    "cliente":"BRUNO  GONÇALVES CAVALCANTE",
+    "potencia":8.32,
+    "preco":23380.59,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(159) 97777-077",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-25"
+  },
+  {
+    "cliente":"DOUGLAS GRACIATTI",
+    "potencia":11.1,
+    "preco":38754.79,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(092) 98151-1108",
+    "fonte":"Indicação",
+    "data_criacao":"2024-07-25"
+  },
+  {
+    "cliente":"RAFAEL LUCIO  PEREIRA",
+    "potencia":2.73,
+    "preco":8915.65,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99100-8282",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-07-29"
+  },
+  {
+    "cliente":"RAFAEL LUCIO  PEREIRA",
+    "potencia":3.42,
+    "preco":10111.58,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(031) 99100-8282",
+    "fonte":"Lead",
+    "data_criacao":"2024-07-30"
+  },
+  {
+    "cliente":"ALEXANDRE SALES SANTOS",
+    "potencia":13.57,
+    "preco":88335.29,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(91) 99914-8821",
+    "fonte":"Indicação",
+    "data_criacao":"2024-07-31"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":5.13,
+    "preco":13836.38,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-07-31"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":86.11,
+    "preco":198335.73,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-02"
+  },
+  {
+    "cliente":"LUIZ MUNIZ  DA CRUZ",
+    "potencia":56.68,
+    "preco":175004.34,
+    "parceiro":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "editor":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "telefone":"(32) 99817-6055",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-08-03"
+  },
+  {
+    "cliente":"RUAN VIDAL DOS SANTOS",
+    "potencia":13.2,
+    "preco":34986.23,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(229) 98471-631",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-08-05"
+  },
+  {
+    "cliente":"RAFAEL LUCIO  PEREIRA",
+    "potencia":3.42,
+    "preco":10111.58,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(031) 99100-8282",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-05"
+  },
+  {
+    "cliente":"JAIR LOURENÇO DOS SANTOS",
+    "potencia":9.81,
+    "preco":32435.09,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 99821-8583",
+    "fonte":"Indicação",
+    "data_criacao":"2024-08-06"
+  },
+  {
+    "cliente":"ALEXANDRE APARECIDO COTA",
+    "potencia":5.04,
+    "preco":15608.83,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99150-4075",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-06"
+  },
+  {
+    "cliente":"DENERSON BRUNO BRUNO",
+    "potencia":2.25,
+    "preco":12003.73,
+    "parceiro":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "editor":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "telefone":"(319) 91796-770",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-06"
+  },
+  {
+    "cliente":"TAIS  .",
+    "potencia":6.78,
+    "preco":16468.83,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(019) 99806-3456",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-06"
+  },
+  {
+    "cliente":"LICIA  MARTINS DA ROCHA",
+    "potencia":5.08,
+    "preco":15585.74,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 87215-739",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-08-07"
+  },
+  {
+    "cliente":"DENERSON BRUNO BRUNO",
+    "potencia":2.85,
+    "preco":8900.0,
+    "parceiro":"PAULO  HENRIQUES",
+    "editor":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "telefone":"(319) 91796-770",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-08-07"
+  },
+  {
+    "cliente":"CRISTAL MASTER INDUSTRIA E COMERCIO LTDA CRISTAL MASTER",
+    "potencia":2200.71,
+    "preco":4058679.4100000001,
+    "parceiro":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "editor":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "telefone":"(047) 99293-428",
+    "fonte":"Indicação",
+    "data_criacao":"2024-08-08"
+  },
+  {
+    "cliente":"FLAVIO TRILE",
+    "potencia":6.32,
+    "preco":16815.6,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99859-2764",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-08-08"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":24.52,
+    "preco":115863.7,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(031) 99330-5870",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-08-08"
+  },
+  {
+    "cliente":"EDMILSON  VIEIRA CARDOSO",
+    "potencia":4.36,
+    "preco":15662.48,
+    "parceiro":"MARTIN DA SILVA DUTEL",
+    "editor":"MARTIN DA SILVA DUTEL",
+    "telefone":"(21) 97152-7597",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-08-09"
+  },
+  {
+    "cliente":"LUCIA SELENE LOPES DE CERQUEIRA",
+    "potencia":7.02,
+    "preco":19617.35,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99725-1053",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-08-12"
+  },
+  {
+    "cliente":"CANAA 2",
+    "potencia":22.14,
+    "preco":66643.84,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(11) 94586-2276",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-13"
+  },
+  {
+    "cliente":"JOEL BATISTA  ALVES ",
+    "potencia":2.34,
+    "preco":7668.13,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 98775-7686",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-15"
+  },
+  {
+    "cliente":"THAIS THEBAS",
+    "potencia":9.12,
+    "preco":18227.67,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(119) 57806-630",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-16"
+  },
+  {
+    "cliente":"BARBARA CRISTINA DE REZENDE ALVIM REZENDE",
+    "potencia":9.15,
+    "preco":30108.49,
+    "parceiro":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "editor":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "telefone":"(031) 99179-6770",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-08-19"
+  },
+  {
+    "cliente":"MURILLO FERNANDO MICHELS MAINARDI",
+    "potencia":3.82,
+    "preco":15352.69,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 98368-3871",
+    "fonte":"Indicação",
+    "data_criacao":"2024-08-21"
+  },
+  {
+    "cliente":"L S METAIS COM. IND. REP. LTDA",
+    "potencia":150.34,
+    "preco":464272.51,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 99624-1480",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-08-23"
+  },
+  {
+    "cliente":"LICIA  MARTINS DA ROCHA",
+    "potencia":5.13,
+    "preco":129551.08,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 87215-739",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-08-23"
+  },
+  {
+    "cliente":"FABIO RODRIGUES RAMACCIOTTI",
+    "potencia":2.85,
+    "preco":9999.74,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(11) 91727-8660",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-24"
+  },
+  {
+    "cliente":"CARLOS EDUARDO PRADELLA",
+    "potencia":6.54,
+    "preco":17873.3,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99633-1848",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-26"
+  },
+  {
+    "cliente":"JOSE MIGUEL DA SILVA JUNIOR",
+    "potencia":5.26,
+    "preco":17170.87,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99349-0755",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-27"
+  },
+  {
+    "cliente":"GISLAINE  DE ALMEIDA PAULO",
+    "potencia":3.42,
+    "preco":11233.88,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(011) 97425-2653",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-28"
+  },
+  {
+    "cliente":"EDISON  DA SILVA ",
+    "potencia":7.41,
+    "preco":17925.7,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 98996-5506",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-28"
+  },
+  {
+    "cliente":"CAMILA DE SOUZA FERREIRA",
+    "potencia":2.28,
+    "preco":8918.87,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99842-0219",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-29"
+  },
+  {
+    "cliente":"MARIA DAS GRACAS MARANHAO A  LIMA",
+    "potencia":9.12,
+    "preco":26061.92,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(819) 91328-848",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-30"
+  },
+  {
+    "cliente":"MARIA DAS GRACAS MARANHAO A  LIMA",
+    "potencia":7.63,
+    "preco":47539.89,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(819) 91328-848",
+    "fonte":"Lead",
+    "data_criacao":"2024-08-30"
+  },
+  {
+    "cliente":"VICTOR HUGO MIOTTI SILVA",
+    "potencia":5.26,
+    "preco":16098.34,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(119) 84873-747",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-03"
+  },
+  {
+    "cliente":"CAROLINA DE CERQUEIRA NOGUEIRA",
+    "potencia":10.92,
+    "preco":23897.22,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(219) 96461-378",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-09-04"
+  },
+  {
+    "cliente":"CONDOMINIO DO EDIFICIO MARIANA DANTAS",
+    "potencia":15.26,
+    "preco":82882.22,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99731-7466",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-05"
+  },
+  {
+    "cliente":"MOISÉS HELENO  VIEIRA BRAGA",
+    "potencia":88.92,
+    "preco":250000.03,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99202-0603",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-09-05"
+  },
+  {
+    "cliente":"MÔNICA  F. S. SILVA",
+    "potencia":9.26,
+    "preco":23127.09,
+    "parceiro":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "editor":"CARLOS EDUARDO  DE SOUZA MOTA",
+    "telefone":"(021) 97003-9477",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-09-07"
+  },
+  {
+    "cliente":"MARIA DA PAZ  SILVA ",
+    "potencia":9.69,
+    "preco":25959.84,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99843-6606",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-09"
+  },
+  {
+    "cliente":"MOISÉS HELENO  VIEIRA BRAGA",
+    "potencia":89.12,
+    "preco":301490.71,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99202-0603",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-09-11"
+  },
+  {
+    "cliente":"FRANCISCO JOSÉ REZENDE",
+    "potencia":4.1,
+    "preco":11744.14,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(31) 98569-6873",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-12"
+  },
+  {
+    "cliente":"REJANE DA SILVA",
+    "potencia":4.68,
+    "preco":13996.3,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(019) 99248-1848",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-13"
+  },
+  {
+    "cliente":"HEIDY  CINTRA",
+    "potencia":26.46,
+    "preco":58248.95,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(11) 99708-8982",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-14"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":6.76,
+    "preco":16912.52,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-16"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":8.54,
+    "preco":25900.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-16"
+  },
+  {
+    "cliente":"JOSÉ ANTÔNIO MOREIRA RODRIGUES",
+    "potencia":6.1,
+    "preco":18500.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(032) 99123-0253",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-16"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":3.05,
+    "preco":10000.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-17"
+  },
+  {
+    "cliente":"ZELIA SEIXAS DE CARVALHO",
+    "potencia":2.28,
+    "preco":7640.41,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(31) 97366-4829",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-17"
+  },
+  {
+    "cliente":"ELIEL DA COSTA MUNK",
+    "potencia":4.2,
+    "preco":12200.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(31) 98527-7107",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-19"
+  },
+  {
+    "cliente":"EDINEI  DO CARMO BRAGA",
+    "potencia":4.68,
+    "preco":15000.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(31) 99985-1980",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-19"
+  },
+  {
+    "cliente":"MARIANA   PENNA TEIXEIRA  MOREIRA PINTO",
+    "potencia":6.1,
+    "preco":14800.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(31) 98666-5215",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-19"
+  },
+  {
+    "cliente":"WILSON APARCIDO DA SILVA ",
+    "potencia":4.02,
+    "preco":11000.01,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 94195-5833",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-20"
+  },
+  {
+    "cliente":"RONALDO MORENO ",
+    "potencia":3.51,
+    "preco":12477.03,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99841-6673",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-22"
+  },
+  {
+    "cliente":"ANTÔNIO JOSÉ DE MATOS",
+    "potencia":7.22,
+    "preco":17625.8,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99578-1742",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-25"
+  },
+  {
+    "cliente":"SAMUEL  DE GOES PONTES",
+    "potencia":8.88,
+    "preco":22907.92,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99698-2161",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-26"
+  },
+  {
+    "cliente":"PAULO ROBERTO DE ALMEIDA",
+    "potencia":5.6,
+    "preco":13912.46,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(999) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-26"
+  },
+  {
+    "cliente":"CLAUDEMIR EBURNEO",
+    "potencia":3.33,
+    "preco":10005.56,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99123-9380",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-27"
+  },
+  {
+    "cliente":"PAULO JOSÉ MENDES",
+    "potencia":2.22,
+    "preco":7458.83,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99724-2152",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-27"
+  },
+  {
+    "cliente":"RUBENS ALVES",
+    "potencia":2.78,
+    "preco":7721.0,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 97402-8885",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-30"
+  },
+  {
+    "cliente":"BRUNO RIOS LOPES",
+    "potencia":5.55,
+    "preco":15308.15,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(11) 97758-5242",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-30"
+  },
+  {
+    "cliente":"MARIA CAETANA DE PAIVA GONÇALVES",
+    "potencia":17.76,
+    "preco":37173.28,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 98838-6116",
+    "fonte":"Lead",
+    "data_criacao":"2024-09-30"
+  },
+  {
+    "cliente":"JOSÉ ROBERTO ROBERTO",
+    "potencia":34.96,
+    "preco":88860.06,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99732-0081",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-01"
+  },
+  {
+    "cliente":"JOELIA MEIRELES DOS SANTOS GONÇALVES",
+    "potencia":5.18,
+    "preco":14537.92,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 98044-1546",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-01"
+  },
+  {
+    "cliente":"MARIA  EDILENE MIRANDA",
+    "potencia":2.73,
+    "preco":9156.3,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 98044-1546",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-01"
+  },
+  {
+    "cliente":"ANTONIO  JOSE DA SILVA",
+    "potencia":4.44,
+    "preco":12000.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(319) 8514-8880",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-02"
+  },
+  {
+    "cliente":"SEVERINO ALVES DA  SILVA",
+    "potencia":7.02,
+    "preco":25599.41,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99104-3312",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-03"
+  },
+  {
+    "cliente":"SELMA AMÉLIA DE SOUZA ARAUJO",
+    "potencia":4.36,
+    "preco":13390.76,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(199) 92481-848",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-04"
+  },
+  {
+    "cliente":"WELLINGTON GUSTAVO  BEZERRA",
+    "potencia":5.85,
+    "preco":20214.91,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99647-0741",
+    "fonte":"Indicação",
+    "data_criacao":"2024-10-11"
+  },
+  {
+    "cliente":"ANDRE TROTTE",
+    "potencia":4.68,
+    "preco":11875.0,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 97177-0041",
+    "fonte":"Indicação",
+    "data_criacao":"2024-10-13"
+  },
+  {
+    "cliente":"VIRGINIA  GOMES JUNQUEIRA",
+    "potencia":3.51,
+    "preco":13932.99,
+    "parceiro":"MARCO AURELIO  MEDEIROS SILVA",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-10-16"
+  },
+  {
+    "cliente":"REINALDO SANTANA",
+    "potencia":3.51,
+    "preco":9523.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 98313-3075",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-18"
+  },
+  {
+    "cliente":"ALEXANDRE SILVA  RODRIGUES",
+    "potencia":9.36,
+    "preco":20206.47,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99169-3009",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-18"
+  },
+  {
+    "cliente":"JOSÉ ANTÔNIO MOREIRA RODRIGUES",
+    "potencia":8.77,
+    "preco":53316.34,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(032) 99123-0253",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-18"
+  },
+  {
+    "cliente":"FABIO ELI DE MIRANDA",
+    "potencia":5.26,
+    "preco":14992.66,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99180-8181",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-19"
+  },
+  {
+    "cliente":"ITALO  BAETTA",
+    "potencia":5.26,
+    "preco":13806.93,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 98828-4682",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2024-10-22"
+  },
+  {
+    "cliente":"MICHELE ALVES  DA SILVA",
+    "potencia":3.51,
+    "preco":11535.77,
+    "parceiro":"EMERSON  FELIZARDO",
+    "editor":"EMERSON  FELIZARDO",
+    "telefone":"(119) 74235-435",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-10-22"
+  },
+  {
+    "cliente":"CLÉCIO BARBOSA DA SILVA",
+    "potencia":2.34,
+    "preco":7506.05,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97225-1459",
+    "fonte":"Indicação",
+    "data_criacao":"2024-10-23"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":8.19,
+    "preco":22185.7,
+    "parceiro":"PAULO  HENRIQUES",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-24"
+  },
+  {
+    "cliente":"SIMULAÇÃO PRELIMINAR",
+    "potencia":13.8,
+    "preco":34626.41,
+    "parceiro":"LUIZ CARLOS DOS SANTOS",
+    "editor":"LUIZ CARLOS DOS SANTOS",
+    "telefone":"(11) 2871-5257",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-25"
+  },
+  {
+    "cliente":"MOISÉS HELENO  VIEIRA BRAGA",
+    "potencia":5.26,
+    "preco":30959.87,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99202-0603",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-10-25"
+  },
+  {
+    "cliente":"MIGUEL ARCANJO  RIBEIRO",
+    "potencia":5.85,
+    "preco":14500.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 98942-4523",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-28"
+  },
+  {
+    "cliente":"MILENE  APARECIDA DOS SANTOS",
+    "potencia":3.51,
+    "preco":10015.18,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97458-0550",
+    "fonte":"Indicação",
+    "data_criacao":"2024-10-28"
+  },
+  {
+    "cliente":"MAGDO ROBERTO DE  CAMARGO",
+    "potencia":24.57,
+    "preco":54500.0,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(019) 99703-6483",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-10-29"
+  },
+  {
+    "cliente":"DR.  DOUGLAS",
+    "potencia":112.32,
+    "preco":200238.77,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(019) 99160-3386",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-10-29"
+  },
+  {
+    "cliente":"EMILIA CAMPOS FERREIRA FERREIRA",
+    "potencia":14.04,
+    "preco":41201.11,
+    "parceiro":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "editor":"FERNANDO AUGUSTO  MARTINS DAS NEVES",
+    "telefone":"(919) 80232-623",
+    "fonte":"Indicação",
+    "data_criacao":"2024-10-29"
+  },
+  {
+    "cliente":"RUBENS JOSÉ CAMPOS",
+    "potencia":9.12,
+    "preco":20521.7,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(019) 99248-1848",
+    "fonte":"Lead",
+    "data_criacao":"2024-10-31"
+  },
+  {
+    "cliente":"WANDERSON BARBOSA DE ALMEIDA",
+    "potencia":9.94,
+    "preco":22695.9,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 98866-7672",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-04"
+  },
+  {
+    "cliente":"DANIEL JORGE COLLAÇO",
+    "potencia":4.1,
+    "preco":19611.54,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99126-9905",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-04"
+  },
+  {
+    "cliente":"DANIEL JORGE COLLAÇO",
+    "potencia":3.88,
+    "preco":12047.37,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99126-9905",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-04"
+  },
+  {
+    "cliente":"EDGARD DA SILVA VITORIO",
+    "potencia":5.26,
+    "preco":14595.41,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 97402-5885",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-04"
+  },
+  {
+    "cliente":"JOSE CARLOS FIRMINO DA SILVA",
+    "potencia":2.34,
+    "preco":8299.65,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99782-2320",
+    "fonte":"Ação comercial",
+    "data_criacao":"2024-11-05"
+  },
+  {
+    "cliente":"LEANDRO APARECIDO PIRES",
+    "potencia":20.47,
+    "preco":49024.73,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99734-7957",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-05"
+  },
+  {
+    "cliente":"ELIAS  ABUD",
+    "potencia":4.44,
+    "preco":13100.8,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99119-2920",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-05"
+  },
+  {
+    "cliente":"CHRISSI CARLOS HAGEMEISTER",
+    "potencia":4.44,
+    "preco":12880.87,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99106-0699",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-05"
+  },
+  {
+    "cliente":"JOSÉ OTAVIANO IRMAO",
+    "potencia":3.88,
+    "preco":12072.95,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99813-8905",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-05"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":8.19,
+    "preco":21519.03,
+    "parceiro":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-11-06"
+  },
+  {
+    "cliente":"NEIDE  DOMINGUES DOS SANTOS ",
+    "potencia":4.68,
+    "preco":14529.27,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 96476-3380",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-06"
+  },
+  {
+    "cliente":"APARECIDO CUSTODIO DA SILVA",
+    "potencia":2.34,
+    "preco":8475.32,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99809-1817",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-07"
+  },
+  {
+    "cliente":"MARIA ISABEL  FERREIRA DE ASSUNÇÃO",
+    "potencia":6.32,
+    "preco":17682.52,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(11) 99993-7488",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-07"
+  },
+  {
+    "cliente":"JAIRO EVANGELISTA",
+    "potencia":3.51,
+    "preco":11224.44,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(11) 99698-381",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-07"
+  },
+  {
+    "cliente":"ANTÔNIO GERALDO DOS SANTOS",
+    "potencia":6.84,
+    "preco":16000.0,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(019) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-08"
+  },
+  {
+    "cliente":"CLAUDIA  OLIVEIRA DINIZ DE SOUZA",
+    "potencia":20.52,
+    "preco":45920.12,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(11) 94088-4698",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-08"
+  },
+  {
+    "cliente":"LILIANE DE MACEDO OLIVEIRA",
+    "potencia":17.67,
+    "preco":42176.11,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(11) 94088-4698",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-08"
+  },
+  {
+    "cliente":"ADRIANA CAMARGO",
+    "potencia":25.53,
+    "preco":59596.93,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(119) 40884-698",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-08"
+  },
+  {
+    "cliente":"IZABELA FERREIRA DOS SANTOS",
+    "potencia":5.26,
+    "preco":15748.11,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(79) 99921-4540",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-11"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":8.77,
+    "preco":23086.64,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-11"
+  },
+  {
+    "cliente":"VANDERLEI JOSÉ  DE LIMA",
+    "potencia":6.9,
+    "preco":18769.66,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(11) 99986-4950",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-11"
+  },
+  {
+    "cliente":"ALMIR VIEIRA",
+    "potencia":5.13,
+    "preco":13887.28,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99708-8580",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-12"
+  },
+  {
+    "cliente":"LEONARDO JUNIOR ANDRADE",
+    "potencia":4.56,
+    "preco":13284.57,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(031) 98058-406",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-13"
+  },
+  {
+    "cliente":"DAVI CAVALHEIRO",
+    "potencia":11.11,
+    "preco":23291.85,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-11-14"
+  },
+  {
+    "cliente":"CENDESUL-CENTRO DESPORTIVO DA ZONA SUL LIMITADA",
+    "potencia":46.21,
+    "preco":115500.0,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99999-9999",
+    "fonte":"Ação comercial",
+    "data_criacao":"2024-11-16"
+  },
+  {
+    "cliente":"OUROTUR ORGANIZAÇÕES LTDA OUROTUR",
+    "potencia":28.2,
+    "preco":84936.0,
+    "parceiro":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "editor":"PAULO HENRIQUES  DE ASSIS FILHO",
+    "telefone":"(319) 91796-770",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-11-18"
+  },
+  {
+    "cliente":"VICENTE  DE PAULA  DE  ALMEIDA",
+    "potencia":7.02,
+    "preco":23551.27,
+    "parceiro":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "editor":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "telefone":"(329) 88340-676",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-11-19"
+  },
+  {
+    "cliente":"ROBERTO  ROCHA DE QUEIROZ",
+    "potencia":3.99,
+    "preco":14528.77,
+    "parceiro":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "editor":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "telefone":"(329) 98805-4086",
+    "fonte":"Indicação",
+    "data_criacao":"2024-11-19"
+  },
+  {
+    "cliente":"ROBERTO  ROCHA DE QUEIROZ",
+    "potencia":5.6,
+    "preco":15491.98,
+    "parceiro":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "editor":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "telefone":"(329) 98805-4086",
+    "fonte":"Indicação",
+    "data_criacao":"2024-11-19"
+  },
+  {
+    "cliente":"LUCAS PINHEIRO ",
+    "potencia":31.32,
+    "preco":70367.33,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(119) 84409-009",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-19"
+  },
+  {
+    "cliente":"JACKSON CORDEIRO DA  SILVA",
+    "potencia":3.6,
+    "preco":14261.99,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99377-6994",
+    "fonte":"Ação comercial",
+    "data_criacao":"2024-11-21"
+  },
+  {
+    "cliente":"RONALDO SANTOS PINTO",
+    "potencia":2.85,
+    "preco":10120.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(310) 00000-0000",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-23"
+  },
+  {
+    "cliente":"JOSE VALDISON DE OLIVEIRA",
+    "potencia":6.44,
+    "preco":21451.39,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99232-7158",
+    "fonte":"Ação comercial",
+    "data_criacao":"2024-11-25"
+  },
+  {
+    "cliente":"TIAGO TIAGO",
+    "potencia":7.02,
+    "preco":18957.28,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 98116-7916",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-27"
+  },
+  {
+    "cliente":"SILVANA LAUDELINA TEODORO",
+    "potencia":4.68,
+    "preco":14171.64,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(031) 99724-3118",
+    "fonte":"Indicação",
+    "data_criacao":"2024-11-27"
+  },
+  {
+    "cliente":"VIVIA REGINA RIBEIRO",
+    "potencia":4.68,
+    "preco":12994.0,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99141-4399",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-27"
+  },
+  {
+    "cliente":"PEDRO FERREIRA MILAGRES",
+    "potencia":11.7,
+    "preco":32924.1,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(032) 99826-4020",
+    "fonte":"Lead",
+    "data_criacao":"2024-11-28"
+  },
+  {
+    "cliente":"MARCIA ANTÔNIA  DE ARAUJO ANTUNES",
+    "potencia":8.19,
+    "preco":19918.17,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99731-3302",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-11-29"
+  },
+  {
+    "cliente":"ANTONIO  DA SILVA",
+    "potencia":4.68,
+    "preco":13794.17,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99171-8282",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-12-01"
+  },
+  {
+    "cliente":"CRISTIANE  DA SILVA MOURA",
+    "potencia":8.68,
+    "preco":22246.3,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99873-0905",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-12-02"
+  },
+  {
+    "cliente":"ALAN APARECIDO DE CARVALHO  SILVA",
+    "potencia":7.02,
+    "preco":21373.0,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99964-9114",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-04"
+  },
+  {
+    "cliente":"CONDOMÍNIO EDIFÍCIO SOLAR DA  CANTAREIRA (CNPJ PROVISÓRIO)",
+    "potencia":57.92,
+    "preco":152812.9,
+    "parceiro":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "editor":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "telefone":"(011) 97629-8813",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-12-05"
+  },
+  {
+    "cliente":"DIEGO FERREIRA LIMA",
+    "potencia":4.8,
+    "preco":14567.58,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 98726-0598",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-12-07"
+  },
+  {
+    "cliente":"FELIPE GUEDES DE ALMEIDA",
+    "potencia":15.52,
+    "preco":37998.04,
+    "parceiro":"LEONARDO LEAL DA SILVA",
+    "editor":"LEONARDO LEAL DA SILVA",
+    "telefone":"(011) 96353-4325",
+    "fonte":"Captação ativa",
+    "data_criacao":"2024-12-09"
+  },
+  {
+    "cliente":"LUCIMARA  BUENO",
+    "potencia":12.81,
+    "preco":31279.49,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(119) 56379-233",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-10"
+  },
+  {
+    "cliente":"ELOIZA MARCELINA DA SILVA  ALVES",
+    "potencia":7.02,
+    "preco":24869.83,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99264-6997",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-10"
+  },
+  {
+    "cliente":"CAIQUE TOBIAS RODRIGUES",
+    "potencia":4.2,
+    "preco":11300.2,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99651-8799",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-15"
+  },
+  {
+    "cliente":"VALDIANDERSON JOSE DE V  BARBOSA",
+    "potencia":7.6,
+    "preco":24425.56,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99570-5332",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-17"
+  },
+  {
+    "cliente":"SEVERINA MARIA SANTANA  ALVES",
+    "potencia":8.19,
+    "preco":25457.99,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99578-5409",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-18"
+  },
+  {
+    "cliente":"VERA LUCIA  TORRES",
+    "potencia":4.2,
+    "preco":16833.84,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99463-8770",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-20"
+  },
+  {
+    "cliente":"SOCIEDADE EDUCACIONAL  COITENCE LTDA",
+    "potencia":12.0,
+    "preco":38748.87,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(71) 99697-0260",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-20"
+  },
+  {
+    "cliente":"CAROLINA GUTIERRES TOLEDO",
+    "potencia":7.32,
+    "preco":19227.7,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99121-8765",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-20"
+  },
+  {
+    "cliente":"VINICIUS  SOUZA PEREIRA",
+    "potencia":2.72,
+    "preco":10310.53,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98070-8128",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-12-20"
+  },
+  {
+    "cliente":"FABIANO BRUNO REZENDE  DA SILVA",
+    "potencia":19.8,
+    "preco":39047.06,
+    "parceiro":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "editor":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "telefone":"(32) 99833-2042",
+    "fonte":"Indicação",
+    "data_criacao":"2024-12-23"
+  },
+  {
+    "cliente":"LIVIA MARIA OLIOVEIRA BRANDAO DA  SILVA",
+    "potencia":16.38,
+    "preco":48405.61,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(075) 99998-9020",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-25"
+  },
+  {
+    "cliente":"EDUARDO TOMAZ VELOSSO DE  LIRA",
+    "potencia":4.68,
+    "preco":15615.03,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99899-3909",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-26"
+  },
+  {
+    "cliente":"FABIANO FERNANDES DE REZENDE",
+    "potencia":41.9,
+    "preco":126496.09,
+    "parceiro":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "editor":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "telefone":"(32) 98468-5121",
+    "fonte":"Relacionamento",
+    "data_criacao":"2024-12-29"
+  },
+  {
+    "cliente":"LUIZ ALBERTO DE OLIVEIRA",
+    "potencia":2.66,
+    "preco":9653.97,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(159) 81167-916",
+    "fonte":"Lead",
+    "data_criacao":"2024-12-30"
+  },
+  {
+    "cliente":"ADRIANA SANTOS GEYER",
+    "potencia":12.2,
+    "preco":33846.66,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99778-0088",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2025-01-06"
+  },
+  {
+    "cliente":"AMALFI - CONDOMÍNIO EDIFÍCIO AMALFI",
+    "potencia":13.3,
+    "preco":45166.0,
+    "parceiro":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "editor":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "telefone":"(011) 97629-8813",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-01-06"
+  },
+  {
+    "cliente":"GUACIR  VICENTE FERREIRA",
+    "potencia":2.8,
+    "preco":9804.24,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99206-6030",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2025-01-07"
+  },
+  {
+    "cliente":"JOSÉ MARIA FRANÇA",
+    "potencia":4.88,
+    "preco":13693.15,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99560-3504",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-08"
+  },
+  {
+    "cliente":"JOSÉ EDIMUNDO PIVETA (NILTON)",
+    "potencia":4.1,
+    "preco":12021.28,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 95683-6572",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-08"
+  },
+  {
+    "cliente":"GERALDO MARCIONILO DE  SANTANA",
+    "potencia":4.68,
+    "preco":16116.65,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99104-8080",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-09"
+  },
+  {
+    "cliente":"GERALDO MARCIONILO DE  SANTANA",
+    "potencia":4.68,
+    "preco":37940.31,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99104-8080",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-09"
+  },
+  {
+    "cliente":"TESTE ERM",
+    "potencia":2.18,
+    "preco":18606.96,
+    "parceiro":"ALBERTO ROCHA",
+    "editor":"ALBERTO ROCHA",
+    "telefone":"(031) 99999-5555",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-01-09"
+  },
+  {
+    "cliente":"CONDOMÍNIO EDIFÍCIO SOLAR DA  CANTAREIRA (CNPJ PROVISÓRIO)",
+    "potencia":55.51,
+    "preco":136881.5,
+    "parceiro":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "editor":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "telefone":"(011) 97629-8813",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-01-10"
+  },
+  {
+    "cliente":"FLORIPES CHEDID  LAU",
+    "potencia":8.4,
+    "preco":27500.0,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99226-6581",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-10"
+  },
+  {
+    "cliente":"MARIVALDO BARROS ASSUNÇÃO",
+    "potencia":9.8,
+    "preco":32014.26,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99226-6581",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-13"
+  },
+  {
+    "cliente":"CANAA 2",
+    "potencia":21.96,
+    "preco":67469.38,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 94586-2276",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-13"
+  },
+  {
+    "cliente":"SANDRO OLIVEIRA  JESUS",
+    "potencia":4.68,
+    "preco":15569.31,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(075) 98320-3007",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-14"
+  },
+  {
+    "cliente":"ROBERTO DA  SILVA",
+    "potencia":5.26,
+    "preco":18664.24,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99159-4965",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-15"
+  },
+  {
+    "cliente":"ADELSO PEREIRA DA  SILVA",
+    "potencia":4.2,
+    "preco":14394.06,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99367-9830",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-16"
+  },
+  {
+    "cliente":"MINISTERIO APOSTOLICO ACONSELHAMENTO CRISTAO",
+    "potencia":8.77,
+    "preco":24537.06,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99823-9510",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-20"
+  },
+  {
+    "cliente":"ROBERTO  DOMINGOS DOS SANTOS",
+    "potencia":5.26,
+    "preco":14771.65,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99879-3461",
+    "fonte":"Indicação",
+    "data_criacao":"2025-01-20"
+  },
+  {
+    "cliente":"ODACIR NUNES FABRIS",
+    "potencia":3.51,
+    "preco":13921.19,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99855-3333",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-21"
+  },
+  {
+    "cliente":"HELENA WAITTHE SEABRA",
+    "potencia":2.92,
+    "preco":12903.71,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(033) 98417-0218",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-21"
+  },
+  {
+    "cliente":"APARECIDO CUSTODIO DA SILVA",
+    "potencia":1.76,
+    "preco":8258.8,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99809-1817",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-21"
+  },
+  {
+    "cliente":"CRISONALDO DA  SILVA DO NASCIMENTO",
+    "potencia":2.92,
+    "preco":12391.18,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99779-5569",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-22"
+  },
+  {
+    "cliente":"NELSON  DE FARIAS GARCEZ",
+    "potencia":4.68,
+    "preco":14441.44,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96464-9370",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-01-22"
+  },
+  {
+    "cliente":"PLINIO ANASTACIO VIRTUOSO",
+    "potencia":4.68,
+    "preco":13804.3,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99974-8698",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2025-01-23"
+  },
+  {
+    "cliente":"SAMIR AUGUSTO  DA COSTA",
+    "potencia":5.26,
+    "preco":13614.4,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 98802-8444",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-23"
+  },
+  {
+    "cliente":"MAURÍCIO AMARO  DA SILVA",
+    "potencia":7.0,
+    "preco":20691.4,
+    "parceiro":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "editor":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "telefone":"(011) 98759-7120",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-01-24"
+  },
+  {
+    "cliente":"RICARDO ALVES",
+    "potencia":2.34,
+    "preco":25035.92,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99828-5454",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-26"
+  },
+  {
+    "cliente":"RICARDO ALVES",
+    "potencia":3.66,
+    "preco":13328.85,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99828-5454",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-26"
+  },
+  {
+    "cliente":"TAIS  ALVES CORDEIRO",
+    "potencia":4.68,
+    "preco":14659.76,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99869-2255",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2025-01-27"
+  },
+  {
+    "cliente":"LEANDRO ANTONIO DA  SILVA",
+    "potencia":6.6,
+    "preco":20309.59,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99667-9469",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-28"
+  },
+  {
+    "cliente":"CAMILA EVELYN ALVES COSTA E SILVA",
+    "potencia":4.88,
+    "preco":16571.17,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 98802-4019",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-30"
+  },
+  {
+    "cliente":"FILIAL CORPAK INDUSTRIA E COMÉRCIO DE EMBALAGENS PLÁSTICAS LTDA CORPAK",
+    "potencia":1761.68,
+    "preco":3201401.48,
+    "parceiro":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "editor":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "telefone":"(11) 49610-216",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-01-30"
+  },
+  {
+    "cliente":"CORPAK INDUSTRIA E COMÉRCIO DE EMBALAGENS PLÁSTICAS  LTDA",
+    "potencia":1038.22,
+    "preco":1985268.47,
+    "parceiro":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "editor":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-01-31"
+  },
+  {
+    "cliente":"MARCIO  MACIEL DE ALBUQUERQUE",
+    "potencia":3.66,
+    "preco":11888.15,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96423-5535",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-01-31"
+  },
+  {
+    "cliente":"TESTE SIMULAÇÃO",
+    "potencia":7.32,
+    "preco":21795.95,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(011) 99999-9555",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-02-02"
+  },
+  {
+    "cliente":"SERGIO V  CAVALCANTI",
+    "potencia":6.32,
+    "preco":23697.97,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99777-7077",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-03"
+  },
+  {
+    "cliente":"SERGIO V  CAVALCANTI",
+    "potencia":6.32,
+    "preco":18320.12,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99777-7077",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-03"
+  },
+  {
+    "cliente":"JOAO GABRIEL  MARINHO NOGUEIRA",
+    "potencia":4.4,
+    "preco":13132.61,
+    "parceiro":"BARBARA CRISTINA  DA SILVA",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 97405-7657",
+    "fonte":"Indicação",
+    "data_criacao":"2025-02-04"
+  },
+  {
+    "cliente":"GUSTAVO COSTA  GUIMARAES",
+    "potencia":4.6,
+    "preco":13619.94,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98600-5026",
+    "fonte":"Indicação",
+    "data_criacao":"2025-02-04"
+  },
+  {
+    "cliente":"VILMA LUCIA CARMONA GONÇALVES",
+    "potencia":7.32,
+    "preco":26693.85,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99777-1457",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-06"
+  },
+  {
+    "cliente":"VILMA LUCIA CARMONA GONÇALVES",
+    "potencia":7.32,
+    "preco":24374.76,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99777-1457",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-06"
+  },
+  {
+    "cliente":"TESTE SIMULAÇÃO",
+    "potencia":3.66,
+    "preco":13998.34,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(011) 99999-9555",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-08"
+  },
+  {
+    "cliente":"IGOR  LEAL DE OLIVEIRA",
+    "potencia":5.31,
+    "preco":15280.94,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96989-4995",
+    "fonte":"Procura espontânea",
+    "data_criacao":"2025-02-10"
+  },
+  {
+    "cliente":"LUCELINO  VELASCO",
+    "potencia":18.3,
+    "preco":49907.35,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-02-11"
+  },
+  {
+    "cliente":"MOISES HELENO V. BRAGA",
+    "potencia":20.4,
+    "preco":52682.75,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(620) 00000-0000",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-02-11"
+  },
+  {
+    "cliente":"ABNESIO PORTES  DE CASTRO",
+    "potencia":4.88,
+    "preco":15195.89,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(028) 99902-9159",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-11"
+  },
+  {
+    "cliente":"BRUNO SILVA  BOREL",
+    "potencia":7.93,
+    "preco":22853.07,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99744-3792",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-11"
+  },
+  {
+    "cliente":"RHUAN PABLO",
+    "potencia":4.1,
+    "preco":15551.73,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 98269-6573",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-02-12"
+  },
+  {
+    "cliente":"RHUAN PABLO",
+    "potencia":8.19,
+    "preco":23034.38,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 98269-6573",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-02-12"
+  },
+  {
+    "cliente":"RHUAN PABLO",
+    "potencia":12.2,
+    "preco":30818.03,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 98269-6573",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-02-12"
+  },
+  {
+    "cliente":"DEBORA APARECIDA SOARES TAGLIARINI DE MORAES",
+    "potencia":4.68,
+    "preco":13996.05,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98160-9663",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-13"
+  },
+  {
+    "cliente":"CORPAK INDUSTRIA E COMÉRCIO DE EMBALAGENS PLÁSTICAS  LTDA",
+    "potencia":112.86,
+    "preco":620601.86,
+    "parceiro":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "editor":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-02-13"
+  },
+  {
+    "cliente":"ZELIA DO NASCIMENTO BARCELOS",
+    "potencia":4.27,
+    "preco":15017.7,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99590-0838",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-13"
+  },
+  {
+    "cliente":"SIDNEIA BARROS DA SILVA FALCAO",
+    "potencia":3.05,
+    "preco":10323.43,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 98866-3740",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-13"
+  },
+  {
+    "cliente":"ALECSANDRO CORREA",
+    "potencia":8.54,
+    "preco":27147.68,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99512-6366",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-13"
+  },
+  {
+    "cliente":"NELSON COLOMBAN",
+    "potencia":3.51,
+    "preco":11439.58,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(019) 99714-5986",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-13"
+  },
+  {
+    "cliente":"MARCELO AMARO DA SILVA",
+    "potencia":7.93,
+    "preco":23351.89,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99126-5648",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-14"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":9.15,
+    "preco":20930.95,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-14"
+  },
+  {
+    "cliente":"CORPAK INDUSTRIA E COMÉRCIO DE EMBALAGENS PLÁSTICAS  LTDA",
+    "potencia":971.73,
+    "preco":4347191.8600000003,
+    "parceiro":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "editor":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-02-14"
+  },
+  {
+    "cliente":"LEANDRO CARDOSO",
+    "potencia":5.75,
+    "preco":16384.76,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99647-7165",
+    "fonte":"Indicação",
+    "data_criacao":"2025-02-17"
+  },
+  {
+    "cliente":"JOSE ROBERTO DA  SILVA",
+    "potencia":7.32,
+    "preco":24563.52,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99442-4344",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-18"
+  },
+  {
+    "cliente":"PATRICIA ROSA  DE PAULA",
+    "potencia":2.92,
+    "preco":11426.57,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(028) 99986-7209",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-02-18"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":10.98,
+    "preco":15848.42,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-18"
+  },
+  {
+    "cliente":"BIANCA  RAMALHO",
+    "potencia":2.68,
+    "preco":10387.24,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99864-8053",
+    "fonte":"Indicação",
+    "data_criacao":"2025-02-19"
+  },
+  {
+    "cliente":"FELIPE  DECO",
+    "potencia":5.49,
+    "preco":15853.34,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98857-0190",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-20"
+  },
+  {
+    "cliente":"EDUARDO ORESTES JAEGER",
+    "potencia":3.51,
+    "preco":12547.25,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 98813-7618",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-21"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":3.66,
+    "preco":12800.0,
+    "parceiro":"CARLOS  MAGALHÃES LIMA",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Indicação",
+    "data_criacao":"2025-02-21"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":3.66,
+    "preco":13115.25,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-22"
+  },
+  {
+    "cliente":"LUIZ  ROCHA DE MORAES",
+    "potencia":31.72,
+    "preco":73137.68,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "telefone":"(011) 96966-7220",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-23"
+  },
+  {
+    "cliente":"REGINALDO  PIRONI DA SILVA",
+    "potencia":29.28,
+    "preco":68384.29,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99778-3779",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-25"
+  },
+  {
+    "cliente":"DIOCESE DE CARUARU P S P  APOSTOLO",
+    "potencia":11.59,
+    "preco":33989.92,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99771-4645",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-25"
+  },
+  {
+    "cliente":"JOAO  BATISTA DOS SANTOS QUINAMO",
+    "potencia":3.66,
+    "preco":13785.41,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99252-5502",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-25"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":5.49,
+    "preco":15048.54,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-27"
+  },
+  {
+    "cliente":"CARLOS EDUARDO SILVA DE  CARVALHO ",
+    "potencia":9.0,
+    "preco":26546.5,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 93618-9452",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-27"
+  },
+  {
+    "cliente":"MARIA JULIANA VIEIRA DE CAMPOS REBELO",
+    "potencia":10.37,
+    "preco":25400.0,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99630-4237",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-28"
+  },
+  {
+    "cliente":"JOSE  MONTEIRO  DA     SILVA",
+    "potencia":2.44,
+    "preco":9141.83,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99392-6153",
+    "fonte":"Lead",
+    "data_criacao":"2025-02-28"
+  },
+  {
+    "cliente":"BRUNO  CESAR P. MARIANO",
+    "potencia":3.45,
+    "preco":11066.37,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 97143-2170",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-03"
+  },
+  {
+    "cliente":"LUIS CARLOS TRINDADE DA SILVA",
+    "potencia":5.18,
+    "preco":15297.33,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98633-9620",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-03-04"
+  },
+  {
+    "cliente":"LUIS CARLOS TRINDADE DA SILVA",
+    "potencia":5.4,
+    "preco":16499.22,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98633-9620",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-03-04"
+  },
+  {
+    "cliente":"REGINALDO  PIRONI DA SILVA",
+    "potencia":19.52,
+    "preco":45001.25,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99778-3779",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-05"
+  },
+  {
+    "cliente":"ASSOCIAÇÃO MISSIONÁRIA  VIDA NOVA",
+    "potencia":5.49,
+    "preco":14992.28,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99611-9213",
+    "fonte":"Indicação",
+    "data_criacao":"2025-03-06"
+  },
+  {
+    "cliente":"ALEXANDRE SABINO (CPF PROV) DE LIRA",
+    "potencia":2.3,
+    "preco":8262.21,
+    "parceiro":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "editor":"RITA  DE CASSIA FLORENCE DE MAGALHAES E LIMA",
+    "telefone":"(011) 97629-8813",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-03-07"
+  },
+  {
+    "cliente":"RENATO  PEREIRA DE CAMPOS",
+    "potencia":6.71,
+    "preco":16514.54,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 98167-1870",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-07"
+  },
+  {
+    "cliente":"ROSELI FRAZÃO DA CRUZ",
+    "potencia":2.8,
+    "preco":9734.64,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(159) 91362-644",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-12"
+  },
+  {
+    "cliente":"JOSE FELIPE LEANDRO CELESTINO DE  LIMA",
+    "potencia":10.03,
+    "preco":31877.02,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 98682-4780",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-12"
+  },
+  {
+    "cliente":"LUCIMAR DA SILVA  MORAES ",
+    "potencia":5.33,
+    "preco":14635.98,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 99703-0272",
+    "fonte":"Indicação",
+    "data_criacao":"2025-03-13"
+  },
+  {
+    "cliente":"TESTE ERM",
+    "potencia":4.0,
+    "preco":25741.71,
+    "parceiro":"ALBERTO ROCHA",
+    "editor":"ALBERTO ROCHA",
+    "telefone":"(031) 99999-5555",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-03-13"
+  },
+  {
+    "cliente":"MARIA HELENA ROSA COUTINHO",
+    "potencia":3.05,
+    "preco":11129.26,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99245-9122",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-14"
+  },
+  {
+    "cliente":"JAINE SOUZA",
+    "potencia":6.48,
+    "preco":46249.01,
+    "parceiro":"ANDERSON  DE OLIVEIRA VIEIRA MACHADO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(119) 59010-271",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-17"
+  },
+  {
+    "cliente":"LUAN BERTIN MORENO",
+    "potencia":14.03,
+    "preco":30690.0,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98182-4633",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-17"
+  },
+  {
+    "cliente":"JOSÉ MARIA LEITE DE ALMEIDA",
+    "potencia":8.52,
+    "preco":22000.0,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(019) 99248-1848",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-19"
+  },
+  {
+    "cliente":"JOSE WILTON RODRIGUES DA  COSTA",
+    "potencia":9.6,
+    "preco":28204.36,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99701-4212",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-20"
+  },
+  {
+    "cliente":"JOÃO (SANTHER)",
+    "potencia":4.88,
+    "preco":12897.77,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 99982-9202",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-22"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":7.93,
+    "preco":19191.41,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-27"
+  },
+  {
+    "cliente":"JOSÉ ANTÔNIO MOREIRA RODRIGUES",
+    "potencia":2.44,
+    "preco":7000.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(032) 99123-0253",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-27"
+  },
+  {
+    "cliente":"CLARENCIA  COSTA",
+    "potencia":4.02,
+    "preco":14846.01,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99422-3377",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-27"
+  },
+  {
+    "cliente":"TESTE SOROCABA",
+    "potencia":4.88,
+    "preco":13425.79,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 96446-2525",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-28"
+  },
+  {
+    "cliente":"MONICA VIEIRA DE CAMPOS REBELO",
+    "potencia":10.37,
+    "preco":21997.22,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99630-4237",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-28"
+  },
+  {
+    "cliente":"TESTE7 TESTE",
+    "potencia":5.9,
+    "preco":16000.0,
+    "parceiro":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "editor":"BENEDITO SÉRGIO ANTUNES DOS SANTOS",
+    "telefone":null,
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-03-28"
+  },
+  {
+    "cliente":"JOSE JOAO DE  ASSIS",
+    "potencia":25.3,
+    "preco":67351.57,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99129-1545",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-31"
+  },
+  {
+    "cliente":"ROSANA MARIA DA  SILVA",
+    "potencia":16.1,
+    "preco":44147.97,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99456-8777",
+    "fonte":"Lead",
+    "data_criacao":"2025-03-31"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":2.34,
+    "preco":8142.92,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-01"
+  },
+  {
+    "cliente":"ELIAS BAPTISTA",
+    "potencia":3.51,
+    "preco":11995.86,
+    "parceiro":"ANTÔNIO CARLOS  MERÇON",
+    "editor":"ANTÔNIO CARLOS  MERÇON",
+    "telefone":"(027) 99775-3604",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-01"
+  },
+  {
+    "cliente":"DANIELA FARIAS SILVA  LIRA",
+    "potencia":6.71,
+    "preco":20644.15,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99405-9866",
+    "fonte":"Ação comercial",
+    "data_criacao":"2025-04-03"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":11.11,
+    "preco":25481.57,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-08"
+  },
+  {
+    "cliente":"JOÃO  NIVALDO PICOLI",
+    "potencia":2.48,
+    "preco":9757.84,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 99607-3494",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-09"
+  },
+  {
+    "cliente":"RENATO  ROLIM DOS SANTOS",
+    "potencia":17.7,
+    "preco":41626.69,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99882-9266",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-04-11"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":4.6,
+    "preco":13773.39,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-12"
+  },
+  {
+    "cliente":"EUNICE SIMONE AZEVEDO  CRUZ",
+    "potencia":7.93,
+    "preco":22182.36,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 98259-8217",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-15"
+  },
+  {
+    "cliente":"FLAVIA DA SILVA  MALHEIROS",
+    "potencia":11.78,
+    "preco":28521.88,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96413-0026",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-04-16"
+  },
+  {
+    "cliente":"MARIA MADALENA SOARES  SIQUEIRA",
+    "potencia":4.2,
+    "preco":13197.56,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 98934-1152",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-16"
+  },
+  {
+    "cliente":"ALTAMIR  SILVA",
+    "potencia":3.66,
+    "preco":12397.07,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99981-4942",
+    "fonte":"Indicação",
+    "data_criacao":"2025-04-17"
+  },
+  {
+    "cliente":"TESTE SOROCABA",
+    "potencia":4.88,
+    "preco":13261.97,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 96446-2525",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-17"
+  },
+  {
+    "cliente":"TESTE SOROCABA",
+    "potencia":3.0,
+    "preco":44638.35,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(15) 96446-2525",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-22"
+  },
+  {
+    "cliente":"LUIZ FERNANDO DE OLIVEIRA CARVALHO",
+    "potencia":6.0,
+    "preco":15012.04,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 99945-2516",
+    "fonte":"Indicação",
+    "data_criacao":"2025-04-22"
+  },
+  {
+    "cliente":"DARIO JOSE GOMES DA  SILVA",
+    "potencia":6.71,
+    "preco":20988.8,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99625-2124",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-23"
+  },
+  {
+    "cliente":"MARIA LUCIA ALVES  DIAS",
+    "potencia":4.2,
+    "preco":14565.04,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 98291-9106",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-23"
+  },
+  {
+    "cliente":"TESTE ERM",
+    "potencia":76.5,
+    "preco":280829.17,
+    "parceiro":"ALBERTO ROCHA",
+    "editor":"ALBERTO ROCHA",
+    "telefone":"(031) 99999-5555",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-04-24"
+  },
+  {
+    "cliente":"VALTER JACINO DA SILVA JUNIOR",
+    "potencia":5.68,
+    "preco":17653.5,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 98875-2515",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-24"
+  },
+  {
+    "cliente":"ERONILDO CORDEIRO DE OLIVEIRA",
+    "potencia":4.27,
+    "preco":13966.45,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99302-4896",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-28"
+  },
+  {
+    "cliente":"DAIANE DE OLIVEIRA",
+    "potencia":6.82,
+    "preco":18722.63,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98110-8129",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-28"
+  },
+  {
+    "cliente":"LENISE MARIANO ALVES",
+    "potencia":8.4,
+    "preco":20698.56,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98152-2072",
+    "fonte":"Lead",
+    "data_criacao":"2025-04-28"
+  },
+  {
+    "cliente":"MICHELE VIEIRA DA  SILVA",
+    "potencia":4.2,
+    "preco":14267.07,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99627-8865",
+    "fonte":"Ação comercial",
+    "data_criacao":"2025-04-29"
+  },
+  {
+    "cliente":"PAROQUIA DA ASSUNCAO DE MARIA",
+    "potencia":20.74,
+    "preco":56320.4,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 98333-3040",
+    "fonte":"Ação comercial",
+    "data_criacao":"2025-04-29"
+  },
+  {
+    "cliente":"LUCIENE MOREIRA  COUTINHO",
+    "potencia":2.84,
+    "preco":9993.36,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(022) 98142-1364",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-05-01"
+  },
+  {
+    "cliente":"JOSEMAR MONTEIRO",
+    "potencia":2.7,
+    "preco":26556.52,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(119) 71150-895",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-01"
+  },
+  {
+    "cliente":"ROGERIO LUIZ TEIXEIRA PEDRO",
+    "potencia":7.2,
+    "preco":18199.18,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 96406-8276",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-05-01"
+  },
+  {
+    "cliente":"MARIA CARMEM DA FONSECA  SILVA TAVARES",
+    "potencia":14.91,
+    "preco":37834.2,
+    "parceiro":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "editor":"PEDRO AUGUSTO  VANNI  GUERRA",
+    "telefone":"(32) 99819-2391",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-05-02"
+  },
+  {
+    "cliente":"ROBSON MARTINS RAMOS",
+    "potencia":19.6,
+    "preco":44498.66,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99161-2995",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-07"
+  },
+  {
+    "cliente":"PAULO ANSELMO",
+    "potencia":2.1,
+    "preco":6644.73,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(019) 99248-1848",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-07"
+  },
+  {
+    "cliente":"VERA  LUCIA",
+    "potencia":6.48,
+    "preco":47589.56,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 96714-4267",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-07"
+  },
+  {
+    "cliente":"JELBAS SOUZA",
+    "potencia":31.9,
+    "preco":73806.15,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 96670-1966",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-07"
+  },
+  {
+    "cliente":"ITALO DO AMARAL CARNEIRO",
+    "potencia":24.4,
+    "preco":63969.63,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(081) 99612-4658",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-08"
+  },
+  {
+    "cliente":"MAURO DOS SANTOS",
+    "potencia":4.16,
+    "preco":10296.68,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 98438-6911",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-05-08"
+  },
+  {
+    "cliente":"MANOEL GENARIO DO NASCIMENTO",
+    "potencia":10.2,
+    "preco":32331.04,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99911-1562",
+    "fonte":"Ação comercial",
+    "data_criacao":"2025-05-10"
+  },
+  {
+    "cliente":"MARIA SABINO DA SILVA  TORRES",
+    "potencia":14.64,
+    "preco":38544.93,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 99193-3368",
+    "fonte":"Indicação",
+    "data_criacao":"2025-05-13"
+  },
+  {
+    "cliente":"VILANI PEREIRA",
+    "potencia":4.86,
+    "preco":13794.6,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 97644-6440",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-14"
+  },
+  {
+    "cliente":"NILMA GONÇALVES COELHO PINTO",
+    "potencia":5.6,
+    "preco":16439.67,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 98977-5686",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-05-14"
+  },
+  {
+    "cliente":"RUTHNEA RIBEIRO LOURENCO",
+    "potencia":6.3,
+    "preco":17838.71,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(159) 97162-362",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-14"
+  },
+  {
+    "cliente":"TADEU DE CAMPOS LUVISOTTO",
+    "potencia":11.2,
+    "preco":28511.4,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99775-2831",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-14"
+  },
+  {
+    "cliente":"JOSE  NILSON CASSIMIRO",
+    "potencia":4.8,
+    "preco":12877.4,
+    "parceiro":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "editor":"BIANCA  SILVA DO NASCIMENTO DOS SANTOS",
+    "telefone":"(021) 99277-4884",
+    "fonte":"Indicação",
+    "data_criacao":"2025-05-16"
+  },
+  {
+    "cliente":"EMERSON  BEZERRA",
+    "potencia":3.95,
+    "preco":15684.83,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 94474-7069",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-19"
+  },
+  {
+    "cliente":"MACIEL CAPRIOLI",
+    "potencia":7.0,
+    "preco":14997.86,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(199) 92481-848",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-21"
+  },
+  {
+    "cliente":"BRUNO CORREIA ",
+    "potencia":6.0,
+    "preco":15645.1,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 12345-6789",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-21"
+  },
+  {
+    "cliente":"KEVELYN GOMES  DOS SANTOS ",
+    "potencia":3.5,
+    "preco":11231.58,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 91234-5678",
+    "fonte":"Indicação",
+    "data_criacao":"2025-05-25"
+  },
+  {
+    "cliente":"MILTA ARAGOSA LIBERATO",
+    "potencia":9.0,
+    "preco":31201.03,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(319) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-05-26"
+  },
+  {
+    "cliente":"MOISÉS HELENO  VIEIRA BRAGA",
+    "potencia":16.2,
+    "preco":49791.37,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99202-0603",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-05-26"
+  },
+  {
+    "cliente":"MILTA ARAGOSA LIBERATO",
+    "potencia":21.6,
+    "preco":57729.19,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(319) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-05-26"
+  },
+  {
+    "cliente":"JOSÉ APARECIDO MARCELINO",
+    "potencia":4.2,
+    "preco":11249.53,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 98188-0552",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-27"
+  },
+  {
+    "cliente":"FRANKLIN SALES",
+    "potencia":11.34,
+    "preco":28610.76,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(12) 99662-9235",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-28"
+  },
+  {
+    "cliente":"KABOTRON INDUSTRIA DE CABOS",
+    "potencia":81.74,
+    "preco":161931.14,
+    "parceiro":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "editor":"LEANDRO PEDRO  LAURINDO DISTADIO",
+    "telefone":"(11) 2640-4780",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-29"
+  },
+  {
+    "cliente":"BRUNO CARLOS  DIAS",
+    "potencia":32.94,
+    "preco":91031.43,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(027) 99704-1386",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-05-29"
+  },
+  {
+    "cliente":"LUCAS SABINO",
+    "potencia":4.52,
+    "preco":13128.64,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 93384-2684",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-29"
+  },
+  {
+    "cliente":"BRUNO CARLOS  DIAS",
+    "potencia":34.16,
+    "preco":96957.57,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(027) 99704-1386",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-05-29"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":2.8,
+    "preco":9331.93,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 99330-5870",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-30"
+  },
+  {
+    "cliente":"LUIZ CARLOS JOANA",
+    "potencia":7.8,
+    "preco":21783.75,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(031) 97564-2627",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-30"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":5.6,
+    "preco":18458.5,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Relacionamento",
+    "data_criacao":"2025-05-30"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":6.9,
+    "preco":20141.27,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-30"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":3.6,
+    "preco":13000.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Indicação",
+    "data_criacao":"2025-05-30"
+  },
+  {
+    "cliente":"LUIS MARIO",
+    "potencia":5.65,
+    "preco":14461.28,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 99400-6920",
+    "fonte":"Lead",
+    "data_criacao":"2025-05-30"
+  },
+  {
+    "cliente":"BRUNO CARLOS  DIAS",
+    "potencia":23.79,
+    "preco":72747.74,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(027) 99704-1386",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-06-03"
+  },
+  {
+    "cliente":"RAQUEL  FERRARI RADAELE",
+    "potencia":8.4,
+    "preco":34699.74,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-06-03"
+  },
+  {
+    "cliente":"RAQUEL  FERRARI RADAELE",
+    "potencia":8.54,
+    "preco":24277.28,
+    "parceiro":"RENATA MARTINS",
+    "editor":"RENATA MARTINS",
+    "telefone":"(031) 99999-9999",
+    "fonte":"Captação ativa",
+    "data_criacao":"2025-06-03"
+  },
+  {
+    "cliente":"MARIZA RAMOS MORA SARTORI & CIA.  LTDA",
+    "potencia":22.4,
+    "preco":51239.22,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 38451-535",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-04"
+  },
+  {
+    "cliente":"RUBENS GERCINO DA SILVA",
+    "potencia":9.6,
+    "preco":26843.37,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 98961-6672",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-04"
+  },
+  {
+    "cliente":"ROSANGELA ROCHA",
+    "potencia":5.65,
+    "preco":18345.11,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 97984-8627",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-04"
+  },
+  {
+    "cliente":"AERO CLUB BRAGANÇA",
+    "potencia":35.03,
+    "preco":84579.8,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 99954-6853",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-04"
+  },
+  {
+    "cliente":"FERNANDA ABDUL WEISS WARES",
+    "potencia":2.8,
+    "preco":8879.87,
+    "parceiro":"MARIA DO CARMO  TERRA SOARES",
+    "editor":"MARIA DO CARMO  TERRA SOARES",
+    "telefone":"(119) 94816-775",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-05"
+  },
+  {
+    "cliente":"JAQUELINE NAYARA",
+    "potencia":4.52,
+    "preco":14691.2,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 96315-5494",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-05"
+  },
+  {
+    "cliente":"SERGIO  JESUS",
+    "potencia":2.82,
+    "preco":11216.72,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 98096-9796",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-08"
+  },
+  {
+    "cliente":"JACQUELINE  QUINTO",
+    "potencia":21.47,
+    "preco":54369.57,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 97061-7994",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-08"
+  },
+  {
+    "cliente":"PRISCILA  ALVES",
+    "potencia":6.78,
+    "preco":20002.49,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 95987-5470",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-08"
+  },
+  {
+    "cliente":"VANEI OLIVEIRA",
+    "potencia":3.82,
+    "preco":13134.2,
+    "parceiro":"WELLINGTHON SILVEIRA SAMPAIO",
+    "editor":"WELLINGTHON SILVEIRA SAMPAIO",
+    "telefone":"(11) 97459-0652",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-08"
+  },
+  {
+    "cliente":"CRISTIANO  LOCAÇOES",
+    "potencia":25.9,
+    "preco":64778.4,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(301) 98785-7165",
+    "fonte":"Indicação",
+    "data_criacao":"2025-06-12"
+  },
+  {
+    "cliente":"SERGIO  SOUZA",
+    "potencia":17.5,
+    "preco":49143.27,
+    "parceiro":"ANTÔNIO CÉSAR  GONÇALVES",
+    "editor":"ANTÔNIO CÉSAR  GONÇALVES",
+    "telefone":"(31) 98947-8580",
+    "fonte":"Indicação",
+    "data_criacao":"2025-06-12"
+  },
+  {
+    "cliente":"MARCIANO PEREIRA DA  SILVA",
+    "potencia":8.4,
+    "preco":23971.25,
+    "parceiro":"EVALDO MATIAS DE  CARVALHO",
+    "editor":"EVALDO MATIAS DE  CARVALHO",
+    "telefone":"(81) 98937-5762",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-17"
+  },
+  {
+    "cliente":"ARIOVALDO MARTINS SEMAHIM",
+    "potencia":3.5,
+    "preco":11518.31,
+    "parceiro":"PAULO RICARDO  FERREIRA SARTORI",
+    "editor":"PAULO RICARDO  FERREIRA SARTORI",
+    "telefone":"(014) 99143-7009",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-17"
+  },
+  {
+    "cliente":"KÁTIA  ELAINE ALEXANDRE DA SILVA",
+    "potencia":3.45,
+    "preco":14807.27,
+    "parceiro":"LEANDRO  DANTAS DOS SANTOS",
+    "editor":"LEANDRO  DANTAS DOS SANTOS",
+    "telefone":"(011) 12345-678",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-18"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":2.8,
+    "preco":8440.0,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-18"
+  },
+  {
+    "cliente":"TESTE TESTE",
+    "potencia":4.27,
+    "preco":12580.92,
+    "parceiro":"ERLENILDE SANTOS",
+    "editor":"ERLENILDE  SANTOS",
+    "telefone":"(011) 99999-9999",
+    "fonte":"Lead",
+    "data_criacao":"2025-06-18"
+  }
+]

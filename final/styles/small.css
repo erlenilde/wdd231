@@ -50,26 +50,36 @@ nav {
 
 nav ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     gap: 1rem;
-    padding: 1rem 0;
-    margin: 0;   
-    width: 100%;
+    padding: 1rem 1rem; /* <- antes era 1rem 0 */
+    margin: 0;
     box-sizing: border-box;
-}
-
-nav ul li {
+  }
+  
+  nav ul li {
     list-style: none;
+    flex: 1; /* todos os <li> ocupam a mesma largura */
+    max-width: 120px; /* limite opcional para não esticar demais */
+  }
+  
+  nav ul li button {
+    width: 100%;
+    max-width: 120px;
+    height: 3rem;
     background-color: var(--background-2);
     color: var(--background-1);
     font-weight: 700;
-    padding: 1rem;
-    border-radius: 8px;
     font-size: 0.9rem;
-    padding: 0.5rem;
+    border: none;
     border-radius: 6px;
-    
-}
+    cursor: pointer;
+    box-sizing: border-box;
+  }
+  
+  nav ul li button:hover {
+    background-color: #f0b800;
+  }
 
 main {
     background-color: var(--background-2);
@@ -138,3 +148,20 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+.grid-layout {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    text-align: center;
+}
+
+.no-style-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+
+  

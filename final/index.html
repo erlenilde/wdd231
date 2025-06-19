@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The purpose is to show reports about sales performance of ESDB organization">
     <script src="scripts/date.js" defer></script>
+    <script src="scripts/numbers.js" defer></script>
     <link rel="stylesheet" href="styles/normalize.css">
     <link rel="stylesheet" href="styles/small.css">
     <link rel="stylesheet" href="styles/larger.css">
@@ -22,38 +23,38 @@
             </div>
             <nav>
                 <ul>
-                    <li><a>placeholder</a></li>
-                    <li><a>placeholder</a></li>
-                    <li><a>placeholder</a></li>
+                    <li><button id="all" type="button">All</button></li>
+                    <li><button id="month" type="button">This month</button></li>
+                    <li><button id="period" type="button">Set period</button></li>
                 </ul>
             </nav>
         </header>
         <main>
             <div class="total">
-                <div>
+                <div id="revenue">
                     <p>total-sales</p>
                 </div>
-                <div>
+                <div id="sales">
                     <p>total-amount</p>
                 </div>
-                <div>
+                <div id="ticket">
                     <p>conversion-rate</p>
                 </div>
             </div>
             <div class="graphic">
-                <div class="graphic1">
+                <div class="graphic1" id="monthly-revenue">
                     <p>graphic1</p>
                 </div>
-                <div class="graphic2">
+                <div class="graphic2" id="proposals">
                     <p>graphic2</p>
                 </div>
 
             </div>
             <div class="ranking">
-                <div>
+                <div id="channel">
                     <p>ranking</p>
                 </div>
-                <div>
+                <div id="sales-ranking">
                     <p>graphic ranking</p>
                 </div>
             </div>
