@@ -16,14 +16,19 @@ async function getNumbers() {
     const data = await response.json();
 
     dadosVendas = data;
-    dadosExtraidos = extractedData(data);
+    //dadosExtraidos = extractedData(data);
     //console.log(data);
-    renderDashboard(data);
+    //renderDashboard(data);
+
+    const resumo = gerarResumoDashboard(data);
+    console.log("Resumo do dashboard:", resumo);
+    renderDashboard(resumo);
 }
+
 
 getNumbers();
 
-const extractedData = (data) => {
+/*const extractedData = (data) => {
     const result = data.map(sale => {
         return {
             client: sale.cliente,
@@ -38,22 +43,22 @@ const extractedData = (data) => {
 
     console.log("extracted data:", result);
     return result;
-};
+};*/
 
 
 
-function renderDashboard(data) {
+/*function renderDashboard(data) {
     displayNumbers(data);
     displayMonthlyRevenue(data);
     displayAnnualRevenue(data);
     /*displayProposals(data);
     displayChannels(data);
-    displaySalesRanking(data);*/
-}
+    displaySalesRanking(data);
+}*/
 
 //-----------Totals------------
 
-const displayNumbers = (dataSales) => {
+/*const displayNumbers = (dataSales) => {
     const totalRevenue = dataSales.reduce((sum, sale) => sum + sale.preco, 0);
     const totalSales = dataSales.length;
     const averageTicket = totalRevenue / totalSales;
@@ -61,7 +66,7 @@ const displayNumbers = (dataSales) => {
     revenue.innerHTML = `<h2>${totalRevenue.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}</h2><p>Revenue</p>`;
     sales.innerHTML = `<h2>${totalSales}</h2><p>Total Sales</p>`;
     ticket.innerHTML = `<h2>${averageTicket.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}</h2><p>Avg Ticket</p>`;
-}
+}*/
 
 //-----------Monthly Revenues--
 /*const displayMonthlyRevenue = (dataSales) => {
@@ -97,7 +102,7 @@ const displayNumbers = (dataSales) => {
 
 //------Annual revenues--------
 
-const displayAnnualRevenue = (dataSales) => {
+/*const displayAnnualRevenue = (dataSales) => {
     const filteredData = dataSales.filter(sale => {
         if (!sale.data_venda) return false;
         return true;
@@ -117,7 +122,7 @@ const displayAnnualRevenue = (dataSales) => {
     });
 
     console.log(annualTotals);
-};
+};*/
 
 
 //-----------Buttons-----------
@@ -126,7 +131,76 @@ const showAll = document.querySelector('#all');
 const showMonth = document.querySelector('#month');
 const showPeriod = document.querySelector('#period');
 
-showMonth.addEventListener("click", (e) => {
+showAll.addEventListener("click", () => {
+    const resumo = gerarResumoDashboard(dadosVendas);
+    renderDashboard(resumo, 'anual');
+  });
+  
+  showMonth.addEventListener("click", () => {
+    const hoje = new Date();
+    const inicio = new Date(hoje.getFullYear(), hoje.getMonth() - 11, 1);
+    const fim = new Date(hoje.getFullYear(), hoje.getMonth() + 1, 0);
+  
+    const vendas12Meses = dadosVendas.filter(venda => {
+      const data = new Date(venda.data_venda);
+      return data >= inicio && data <= fim;
+    });
+    const vendasMesAtual = dadosVendas.filter(venda => {
+      const data = new Date(venda.data_venda);
+      return data.getMonth() === hoje.getMonth() && data.getFullYear() === hoje.getFullYear();
+    });
+    
+    const resumo12Meses = gerarResumoDashboard(vendas12Meses);
+    const resumoMesAtual = gerarResumoDashboard(vendasMesAtual);
+    renderDashboard(resumoMesAtual, 'mensal', resumo12Meses);
+  });
+  
+  showPeriod.addEventListener("click", (e) => {
+    e.preventDefault();
+  
+    // Se o popup já existir, não cria de novo
+    if (document.querySelector('#date-container')) return;
+  
+    // Cria o popup
+    const container = document.createElement('div');
+    container.id = 'date-container';
+    container.innerHTML = `
+      <label>Início: <input type="date" id="start-date"></label>
+      <label>Fim: <input type="date" id="end-date"></label>
+      <button id="confirm-dates">OK</button>
+    `;
+    document.body.appendChild(container); // adiciona ao body para flutuar
+  
+    // Evento do botão OK
+    const confirmButton = container.querySelector('#confirm-dates');
+    confirmButton.addEventListener('click', () => {
+      const startInput = document.querySelector('#start-date').value;
+      const endInput = document.querySelector('#end-date').value;
+  
+      if (startInput && endInput) {
+        const startDate = new Date(startInput);
+        const endDate = new Date(endInput);
+  
+        const vendasPeriodo = dadosVendas.filter(venda => {
+          const data = new Date(venda.data_venda);
+          return data >= startDate && data <= endDate;
+        });
+  
+        const resumo = gerarResumoDashboard(vendasPeriodo);
+        renderDashboard(resumo, 'mensal');
+  
+        // Remove o popup
+        container.remove();
+      } else {
+        alert("Por favor selecione as duas datas.");
+      }
+    });
+  });
+  
+  
+  
+
+/*showMonth.addEventListener("click", (e) => {
     e.preventDefault();
 
     const today = new Date();
@@ -166,9 +240,98 @@ showPeriod.addEventListener("click", (e) => {
 
         renderDashboard(periodDisplay);
     }
-});
+});*/
 
+function gerarResumoDashboard(vendas) {
+    const resumo = {
+      totalVendas: vendas.length,
+      totalFaturado: 0,
+      porVendedor: {},
+      porMes: {},
+      porAno: {},
+      porFonte: {},
+    };
+    vendas.forEach(venda => {
+      const preco = venda.preco || 0;
+      const vendedor = venda.vendedor || "Sem vendedor";
+      const data = new Date(venda.data_venda);
+      const mes = venda.data_venda?.slice(0, 7);
+      const ano = data.getFullYear().toString();
+      const fonte = venda.fonte || "Não informada";
+  
+      resumo.totalFaturado += preco;
+  
+      // Por vendedor
+      resumo.porVendedor[vendedor] = (resumo.porVendedor[vendedor] || 0) + preco;
+  
+      // Por mês
+      resumo.porMes[mes] = (resumo.porMes[mes] || 0) + preco;
+  
+      // Por ano
+      resumo.porAno[ano] = (resumo.porAno[ano] || 0) + preco;
+  
+      // Por fonte
+      if (!resumo.porFonte[fonte]) {
+        resumo.porFonte[fonte] = { quantidade: 0, faturamento: 0 };
+      }
+      resumo.porFonte[fonte].quantidade += 1;
+      resumo.porFonte[fonte].faturamento += preco;
+    });
+    return resumo;
+  }
+  
 
+  function renderDashboard(resumo, modo = 'mensal', resumo12Meses = null) {
+    // Totais
+    revenue.innerHTML = `<h2>${resumo.totalFaturado.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}</h2><p>Receita Total</p>`;
+    sales.innerHTML = `<h2>${resumo.totalVendas}</h2><p>Vendas</p>`;
+    ticket.innerHTML = `<h2>${(resumo.totalFaturado / (resumo.totalVendas || 1)).toLocaleString('en-US', { style: 'currency', currency: 'USD' })}</h2><p>Ticket Médio</p>`;
+  
+    // Receita Mensal / Anual
+    const agrupamento = (resumo12Meses || modo === 'anual') ? (resumo12Meses?.porMes || resumo.porAno) : resumo.porMes;
+  
+    const receitaHTML = Object.entries(agrupamento)
+      .sort((a, b) => a[0].localeCompare(b[0]))
+      .map(([tempo, valor]) => `<tr><td>${tempo}</td><td>${valor.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}</td></tr>`)
+      .join('');
+  
+    monthlyRevenue.innerHTML = `
+      <table>
+        <tr><th>Período</th><th>Faturamento</th></tr>
+        ${receitaHTML}
+      </table>`;
+  
+    // Fontes de Captação
+    const canaisHTML = Object.entries(resumo.porFonte).map(([fonte, info]) =>
+      `<tr><td>${fonte}</td><td>${info.quantidade}</td><td>${info.faturamento.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}</td></tr>`)
+      .join('');
+  
+    channel.innerHTML = `
+      <table>
+        <tr><th>Fonte</th><th>Vendas</th><th>Faturamento</th></tr>
+        ${canaisHTML}
+      </table>`;
+  
+    // Ranking de Vendedores
+    const rankingHTML = Object.entries(resumo.porVendedor)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 5)
+      .map(([vendedor, valor]) =>
+        `<tr><td>${vendedor}</td><td>${valor.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}</td></tr>`)
+      .join('');
+  
+    salesRanking.innerHTML = `
+      <table>
+        <tr><th>Vendedor</th><th>Faturamento</th></tr>
+        ${rankingHTML}
+      </table>`;
+
+    
+  }
+  
+  
+  
+  
 
 
 
