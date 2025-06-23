@@ -8,25 +8,346 @@ const salesRanking = document.querySelector('#sales-ranking');
 const urlSales = 'data/vendas_formatado.json';
 const urlProposals = 'data/propostas_formatado.json';
 
-let dadosVendas = [];
-let dadosExtraidos = [];
+let salesData = [];
 
 async function getNumbers() {
     const response = await fetch(urlSales);
     const data = await response.json();
+    salesData = data;
+    console.log(data);
+    showTotals(salesData);
+    showYearlyRevenue(salesData);
+    showChannels(salesData);
+    showSalesRanking(salesData);
 
-    dadosVendas = data;
-    //dadosExtraidos = extractedData(data);
-    //console.log(data);
-    //renderDashboard(data);
-
-    const resumo = gerarResumoDashboard(data);
-    console.log("Resumo do dashboard:", resumo);
-    renderDashboard(resumo);
 }
 
-
 getNumbers();
+
+const showTotals = (dados) => {
+    revenue.innerHTML = "";
+    sales.innerHTML = "";
+    ticket.innerHTML = "";
+
+    let totalRevenue = dados.reduce((acc, sale) => acc + sale.preco, 0);
+    let totalSales = dados.length;
+    let avgTicket = totalSales > 0 ? totalRevenue / totalSales : 0;
+
+    // Revenue
+    let revenueCard = document.createElement('div');
+    let revenueLabel = document.createElement('h5');
+    let revenueValue = document.createElement('h2');
+    revenueLabel.textContent = "Total Revenue";
+    revenueValue.textContent = totalRevenue.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+    revenueCard.appendChild(revenueLabel);
+    revenueCard.appendChild(revenueValue);
+    revenue.appendChild(revenueCard);
+
+    // Sales
+    let salesCard = document.createElement('div');
+    let salesLabel = document.createElement('h5');
+    let salesValue = document.createElement('h2');
+    salesLabel.textContent = "Total Sales";
+    salesValue.textContent = totalSales;
+    salesCard.appendChild(salesLabel);
+    salesCard.appendChild(salesValue);
+    sales.appendChild(salesCard);
+
+    // Ticket
+    let ticketCard = document.createElement('div');
+    let ticketLabel = document.createElement('h5');
+    let ticketValue = document.createElement('h2');
+    ticketLabel.textContent = "Average Ticket";
+    ticketValue.textContent = avgTicket.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+    ticketCard.appendChild(ticketLabel);
+    ticketCard.appendChild(ticketValue);
+    ticket.appendChild(ticketCard);
+}
+
+showTotals(salesData)
+
+const showMonthlyRevenue = (dados, meses = null) => {
+    monthlyRevenue.innerHTML = "";
+
+    if (!meses) {
+        const agora = new Date();
+
+        // 1️⃣ Array dos últimos 12 meses
+        meses = [];
+        for (let i = 11; i >= 0; i--) {
+            const data = new Date(agora.getFullYear(), agora.getMonth() - i, 1);
+            meses.push({
+                ano: data.getFullYear(),
+                mes: data.getMonth() + 1 // 1-12
+            });
+        }
+    }
+
+    // 2️⃣ Container grid
+    const gridContainer = document.createElement('div');
+    gridContainer.style.width = '100%';
+
+    // 3️⃣ Preenche os cards
+    meses.forEach(({ ano, mes }) => {
+        const vendasDoMes = dados.filter(sale => {
+            const dataVenda = new Date(sale.data_venda);
+            return dataVenda.getFullYear() === ano && (dataVenda.getMonth() + 1) === mes;
+        });
+
+        const total = vendasDoMes.reduce((acc, sale) => acc + sale.preco, 0);
+
+        // Card do mês
+        const card = document.createElement('div');
+        card.style.border = '1px solid #ccc';
+        card.style.padding = '0.5rem';
+        card.style.borderRadius = '8px';
+        card.style.background = 'none';
+        card.style.color = '#2b3d91';
+        card.style.textAlign = 'center';
+
+        const label = document.createElement('p');
+        label.style.margin = '0';
+        label.style.fontSize = '0.8rem';
+        label.textContent = `${String(mes).padStart(2, '0')}/${ano}`;
+
+        const value = document.createElement('h3');
+        value.style.margin = '0.3rem 0 0 0';
+        value.style.fontSize = '1rem';
+        value.textContent = total.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+
+        card.appendChild(label);
+        card.appendChild(value);
+
+        gridContainer.appendChild(card);
+    });
+
+    // 4️⃣ Adiciona ao DOM
+    monthlyRevenue.appendChild(gridContainer);
+};
+
+
+const showYearlyRevenue = (dados) => {
+    monthlyRevenue.innerHTML = "";  // Reaproveitamos o container para o gráfico
+
+    const anos = [...new Set(dados.map(sale => new Date(sale.data_venda).getFullYear()))].sort();
+
+    const gridContainer = document.createElement('div');
+    gridContainer.style.display = 'grid';
+    gridContainer.style.gridTemplateColumns = 'repeat(auto-fit, minmax(120px, auto))';
+    gridContainer.style.gap = '0.5rem';
+    gridContainer.style.width = '100%';
+    gridContainer.style.justifyContent = 'center';
+    gridContainer.style.alignItems = 'start';
+
+    anos.forEach(ano => {
+        const vendasDoAno = dados.filter(sale => new Date(sale.data_venda).getFullYear() === ano);
+        const total = vendasDoAno.reduce((acc, sale) => acc + sale.preco, 0);
+
+        const card = document.createElement('div');
+        card.style.border = '1px solid #ccc';
+        card.style.padding = '0.5rem';
+        card.style.borderRadius = '8px';
+        card.style.background = 'none';
+        card.style.color = '#2b3d91';
+        card.style.textAlign = 'center';
+        card.style.maxWidth = '150px';
+        card.style.width = '100%';
+        card.style.boxSizing = 'border-box';
+
+        const label = document.createElement('p');
+        label.style.margin = '0';
+        label.style.fontSize = '0.8rem';
+        label.textContent = `${ano}`;
+
+        const value = document.createElement('h3');
+        value.style.margin = '0.3rem 0 0 0';
+        value.style.fontSize = '1rem';
+        value.textContent = total.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+
+        card.appendChild(label);
+        card.appendChild(value);
+
+        gridContainer.appendChild(card);
+    });
+
+    monthlyRevenue.appendChild(gridContainer);
+};
+
+const showChannels = (dados) => {
+    channel.innerHTML = "";
+
+    // Agrupa por canal
+    const canais = {};
+    dados.forEach(sale => {
+        if (!canais[sale.fonte]) {
+            canais[sale.fonte] = { vendas: 0, faturamento: 0 };
+        }
+        canais[sale.fonte].vendas += 1;
+        canais[sale.fonte].faturamento += sale.preco;
+    });
+
+    // Cria tabela
+    const table = document.createElement('table');
+    table.style.width = '100%';
+    table.style.textAlign = 'left';
+
+    const header = document.createElement('tr');
+    header.innerHTML = `
+        <th>Canal</th>
+        <th>Nº de Vendas</th>
+        <th>Faturamento</th>
+    `;
+    table.appendChild(header);
+
+    for (const [canal, data] of Object.entries(canais)) {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+            <td>${canal}</td>
+            <td>${data.vendas}</td>
+            <td>${data.faturamento.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}</td>
+        `;
+        table.appendChild(row);
+    }
+
+    channel.appendChild(table);
+};
+
+const showSalesRanking = (dados) => {
+    salesRanking.innerHTML = "";
+
+    // Agrupa por vendedor
+    const vendedores = {};
+    dados.forEach(sale => {
+        if (!vendedores[sale.vendedor]) {
+            vendedores[sale.vendedor] = { vendas: 0, faturamento: 0 };
+        }
+        vendedores[sale.vendedor].vendas += 1;
+        vendedores[sale.vendedor].faturamento += sale.preco;
+    });
+
+    // Ordena por faturamento e pega os top 5
+    const topVendedores = Object.entries(vendedores)
+        .sort((a, b) => b[1].faturamento - a[1].faturamento)
+        .slice(0, 5);
+
+    // Cria tabela
+    const table = document.createElement('table');
+    table.style.width = '100%';
+    table.style.textAlign = 'left';
+
+    const header = document.createElement('tr');
+    header.innerHTML = `
+        <th>Vendedor</th>
+        <th>Nº de Vendas</th>
+        <th>Faturamento</th>
+    `;
+    table.appendChild(header);
+
+    topVendedores.forEach(([vendedor, data]) => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+            <td>${vendedor}</td>
+            <td>${data.vendas}</td>
+            <td>${data.faturamento.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}</td>
+        `;
+        table.appendChild(row);
+    });
+
+    salesRanking.appendChild(table);
+};
+
+
+
+
+
+
+
+
+
+//-----------Buttons-----------
+
+const showAll = document.querySelector('#all');
+const showMonth = document.querySelector('#month');
+const showPeriod = document.querySelector('#period');
+const periodModal = document.getElementById('period-modal');
+const startDateInput = document.getElementById('start-date');
+const endDateInput = document.getElementById('end-date');
+const applyPeriodBtn = document.getElementById('apply-period');
+const cancelPeriodBtn = document.getElementById('cancel-period');
+
+showAll.addEventListener("click", (e) => {
+    e.preventDefault();
+
+    showYearlyRevenue(salesData);
+    showTotals(salesData);
+    showChannels(salesData);
+    showSalesRanking(salesData);
+});
+
+showMonth.addEventListener("click", (e) => {
+    e.preventDefault();
+
+    // Gráfico dos últimos 12 meses (usando salesData completo)
+    showMonthlyRevenue(salesData);
+
+    // Filtra dados do mês atual para totals, channels, ranking
+    const now = new Date();
+    const filtered = salesData.filter(sale => {
+        const d = new Date(sale.data_venda);
+        return d.getFullYear() === now.getFullYear() && d.getMonth() === now.getMonth();
+    });
+
+    showTotals(filtered);
+    showChannels(filtered);
+    showSalesRanking(filtered);
+});
+
+showPeriod.addEventListener("click", (e) => {
+    e.preventDefault();
+    periodModal.style.display = 'flex';
+});
+
+applyPeriodBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+
+    const start = new Date(startDateInput.value);
+    const end = new Date(endDateInput.value);
+
+    if (isNaN(start) || isNaN(end)) {
+        alert("Please select both start and end dates.");
+        return;
+    }
+
+    const filtered = salesData.filter(sale => {
+        const d = new Date(sale.data_venda);
+        return d >= start && d <= end;
+    });
+
+    // Gerar meses do período
+    const meses = [];
+    let current = new Date(start.getFullYear(), start.getMonth(), 1);
+    const endMonth = new Date(end.getFullYear(), end.getMonth(), 1);
+    while (current <= endMonth) {
+        meses.push({
+            ano: current.getFullYear(),
+            mes: current.getMonth() + 1
+        });
+        current.setMonth(current.getMonth() + 1);
+    }
+
+    showMonthlyRevenue(filtered, meses);
+    showTotals(filtered);
+    showChannels(filtered);
+    showSalesRanking(filtered);
+
+    periodModal.style.display = 'none';
+});
+
+cancelPeriodBtn.addEventListener("click", () => {
+    periodModal.style.display = 'none';
+});
+
+
 
 /*const extractedData = (data) => {
     const result = data.map(sale => {
@@ -90,10 +411,10 @@ getNumbers();
 
         if (monthlyTotals[key]) {
             monthlyTotals[key] += sale.preco;
-        } 
+        }
         else {
             monthlyTotals[key] = sale.preco;
-        }           
+        }
     });
 
     console.log(monthlyTotals);
@@ -125,13 +446,7 @@ getNumbers();
 };*/
 
 
-//-----------Buttons-----------
-
-const showAll = document.querySelector('#all');
-const showMonth = document.querySelector('#month');
-const showPeriod = document.querySelector('#period');
-
-showAll.addEventListener("click", () => {
+/*showAll.addEventListener("click", () => {
     const resumo = gerarResumoDashboard(dadosVendas);
     renderDashboard(resumo, 'anual');
   });
@@ -195,10 +510,10 @@ showAll.addEventListener("click", () => {
         alert("Por favor selecione as duas datas.");
       }
     });
-  });
-  
-  
-  
+  });*/
+
+
+
 
 /*showMonth.addEventListener("click", (e) => {
     e.preventDefault();
@@ -242,7 +557,7 @@ showPeriod.addEventListener("click", (e) => {
     }
 });*/
 
-function gerarResumoDashboard(vendas) {
+/*function gerarResumoDashboard(vendas) {
     const resumo = {
       totalVendas: vendas.length,
       totalFaturado: 0,
@@ -327,11 +642,11 @@ function gerarResumoDashboard(vendas) {
       </table>`;
 
     
-  }
-  
-  
-  
-  
+  }*/
+
+
+
+
 
 
 

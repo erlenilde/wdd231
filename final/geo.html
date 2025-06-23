@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="The purpose is to show reports about sales performance of ESDB organization">
+        <script src="scripts/date.js" defer></script>
+        <script src="scripts/geo.js" defer></script>
+        <script src="scripts/navigation.js" defer></script>
+        <link rel="stylesheet" href="styles/normalize.css">
+        <link rel="stylesheet" href="styles/small.css">
+        <link rel="stylesheet" href="styles/larger.css">
+        <meta name="author" content="Erlenilde Santos">
+        <title>ESDB DASHBOARD</title>
+    </head>
+    
+    <body>
+        <div class="parent">
+            <header>
+                <div class="logo">
+                  <img src="images/logotipo-vertical-branca-esdb.webp" alt="logo">
+                  <h1>Dashboard</h1>
+                </div>
+                <nav>
+                    <ul class="filters">
+                      <li><button id="all" type="button">All</button></li>
+                      <li><button id="month" type="button">This month</button></li>
+                      <li><button id="period" type="button">Set period</button></li>
+                      <button class="hamburger" aria-label="Toggle menu" id="menuButton">☰</button>
+                    </ul>
+                    
+                    <ul id="mainMenu" class="main-menu">
+                      <li><a href="index.html">Dashboard</a></li>
+                      <li><a href="conversion.html">Conversion</a></li>
+                      <li><a href="geo.html">Geo</a></li>
+                    </ul>
+                </nav>
+                <div id="period-modal" class="modal">
+                  <div class="modal-content">
+                    <label for="start-date">Start date:</label>
+                    <input type="date" id="start-date"><br><br>
+                    <label for="end-date">End date:</label>
+                    <input type="date" id="end-date"><br><br>
+                    <button id="apply-period" type="button">Apply</button>
+                    <button id="cancel-period" type="button">Cancel</button>
+                  </div>
+                </div>
+              </header>
+                <main>
+                <div class="extra">
+                    <div class="filter-bar">
+                        <label for="vendedor-filter">Filter by seller:</label><br>
+                        <select id="vendedor-filter">
+                          <option value="all">All</option>
+                        </select>
+                    </div>
+                      
+                    <div class="geo" id="geo-distribution">
+                    <p>Loading...</p>
+                    </div>
+                </div>
+                </main>
+                <footer>
+                    <p>© <span id="year"></span> Erlenilde Santos - Brazil</p>
+                    <p>Last Modification: <span id="lastModified"></span></p>
+                </footer>
+            </div>
+    </body>
+</html>
