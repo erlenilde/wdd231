@@ -313,13 +313,28 @@ footer {
     border-radius: 8px;
     padding: 1rem;
     margin-bottom: 1rem;
+    overflow-x: auto;
   }
   
-  .conversion table, .geo table {
+  .conversion table{
     width: 100%;
     border-collapse: collapse;
     font-size: 0.9rem;
   }
+
+  .geo table {
+    width: 100%;          /* Tabela ocupa a largura do container */
+    table-layout: fixed;  /* Garante que o layout respeite o width */
+    font-size: 0.75rem;    /* Reduz a fonte para caber melhor no small */
+    word-wrap: break-word; /* Permite quebrar palavras grandes */
+  }
+  
+  .geo th, .geo td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+  }
+  
   
   .conversion th, .conversion td, .geo th, .geo td {
     padding: 0.5rem;
